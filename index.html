@@ -36,6 +36,12 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; OpenStreetMap contributors'
 }).addTo(map);
 
+function esc(s) {
+  return String(s ?? '').replace(/[&<>"']/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[c]));
+}
+
 const COLOR = {
   '地域センター・区民集会所（併設）': '#2171b5',
   '地域センター（集会所なし）': '#f59f00',
@@ -60,12 +66,12 @@ fetch('shinagawa_facilities.geojson')
         const p = feature.properties;
         const [lng, lat] = feature.geometry.coordinates;
         const html = `
-          <div class="popup-title">${p.name}</div>
-          <div>${p.address}</div>
-          <div>種別：${p.category}</div>
-          <div style="margin-top:4px;">${p.note || ''}</div>
+          <div class="popup-title">${esc(p.name)}</div>
+          <div>${esc(p.address)}</div>
+          <div>種別：${esc(p.category)}</div>
+          <div style="margin-top:4px;">${esc(p.note || '')}</div>
           <div style="margin-top:6px;">
-            <a href="https://www.google.com/maps?layer=c&cbll=${lat},${lng}" target="_blank" rel="noopener noreferrer">📷 ストリートビューで見る</a>
+            <a href="https://www.google.com/maps?layer=c&cbll=${encodeURIComponent(lat)},${encodeURIComponent(lng)}" target="_blank" rel="noopener noreferrer">📷 ストリートビューで見る</a>
           </div>
         `;
         layer.bindPopup(html, { maxWidth: 280 });
