@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>品川区 地域センター・区民集会所 マップ</title>
+<title>東京23区 地域センター・区民集会所 マップ</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
   integrity="sha384-sHL9NAb7lN7rfvG5lfHpm643Xkcjzp4jFvuavGOndn6pjVqS6ny56CAt3nsEVT4H"
   crossorigin="anonymous" />
@@ -12,7 +12,7 @@
   header { padding: 10px 16px; background: #f5f5f5; border-bottom: 1px solid #ddd; }
   header h1 { margin: 0; font-size: 1.05rem; }
   header p { margin: 4px 0 0; font-size: 0.8rem; color: #555; }
-  #map { position: absolute; top: 64px; left: 0; right: 0; bottom: 0; }
+  #map { position: absolute; top: 78px; left: 0; right: 0; bottom: 0; }
   .legend { background: white; padding: 8px 10px; border-radius: 4px; box-shadow: 0 1px 4px rgba(0,0,0,.3); font-size: 0.78rem; line-height: 1.6; }
   .legend span { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
   .popup-title { font-weight: bold; margin-bottom: 4px; }
@@ -29,8 +29,9 @@
 </head>
 <body>
 <header>
-  <h1>品川区 地域センター・区民集会所 マップ</h1>
-  <p>区内16施設（地域センター13・区役所・防災センター・東大井区民集会所）の位置情報</p>
+  <h1>東京23区 地域センター・区民集会所 マップ</h1>
+  <p><label>区を選ぶ：<select id="ward"><option value="">全区（東京23区）</option></select></label>
+  <span id="count"></span>　品川区は区の公式情報、他の区はOpenStreetMapの登録データ（登録漏れあり）</p>
 </header>
 <div id="map"></div>
 
@@ -51,6 +52,8 @@ function esc(s) {
   }[c]));
 }
 
+const WARDS = ['千代田区','中央区','港区','新宿区','文京区','台東区','墨田区','江東区','品川区','目黒区','大田区','世田谷区','渋谷区','中野区','杉並区','豊島区','北区','荒川区','板橋区','練馬区','足立区','葛飾区','江戸川区'];
+
 function svUrl(lat, lng) {
   return 'https://www.google.com/maps?layer=c&cbll=' + encodeURIComponent(lat) + ',' + encodeURIComponent(lng);
 }
@@ -58,43 +61,46 @@ function svUrl(lat, lng) {
 const COLOR = {
   '地域センター・区民集会所（併設）': '#2171b5',
   '地域センター（集会所なし）': '#f59f00',
+  '集会施設（OSM）': '#7b3fa0',
   '区民集会所（単独）': '#2ca02c',
   'その他施設': '#888888'
 };
 
-fetch('shinagawa_facilities.geojson')
-  .then(r => r.json())
-  .then(data => {
-    const layer = L.geoJSON(data, {
-      pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, {
-          radius: 7,
-          fillColor: COLOR[feature.properties.category] || '#333',
-          color: '#333',
-          weight: 1,
-          fillOpacity: 0.85
-        });
-      },
-      onEachFeature: function (feature, layer) {
-        const p = feature.properties;
-        const [lng, lat] = feature.geometry.coordinates;
-        const html = `
-          <div class="popup-title">${esc(p.name)}</div>
-          <div>${esc(p.address)}</div>
-          <div>種別：${esc(p.category)}</div>
-          <div style="margin-top:4px;">${esc(p.note || '')}</div>
-          <div style="margin-top:6px;">
-            <a class="sv-btn" href="${svUrl(lat, lng)}" target="_blank" rel="noopener noreferrer">📷 ストリートビューで見る</a>
-          </div>
-        `;
-        layer.bindPopup(html, { maxWidth: 280 });
-      }
-    }).addTo(map);
+let allFeatures = [];
+let layer = null;
 
-    const panel = document.getElementById('list-panel');
-    layer.eachLayer(function (l) {
-      const p = l.feature.properties;
-      const [lng, lat] = l.feature.geometry.coordinates;
+function render(ward) {
+  if (layer) map.removeLayer(layer);
+  const panel = document.getElementById('list-panel');
+  panel.innerHTML = '';
+  const feats = allFeatures.filter(f => !ward || f.properties.ward === ward);
+  document.getElementById('count').textContent =
+    (ward || '東京23区') + '：' + feats.length + '施設';
+  layer = L.geoJSON({ type: 'FeatureCollection', features: feats }, {
+    pointToLayer: function (feature, latlng) {
+      return L.circleMarker(latlng, {
+        radius: 7,
+        fillColor: COLOR[feature.properties.category] || '#333',
+        color: '#333',
+        weight: 1,
+        fillOpacity: 0.85
+      });
+    },
+    onEachFeature: function (feature, l) {
+      const p = feature.properties;
+      const [lng, lat] = feature.geometry.coordinates;
+      const html = `
+        <div class="popup-title">${esc(p.name)}</div>
+        <div>${esc(p.ward)} ${esc(p.address)}</div>
+        <div>種別：${esc(p.category)}</div>
+        <div style="margin-top:4px;">${esc(p.note || '')}</div>
+        <div style="margin-top:4px;font-size:0.75rem;color:#666;">出典：${esc(p.source)}</div>
+        <div style="margin-top:6px;">
+          <a class="sv-btn" href="${svUrl(lat, lng)}" target="_blank" rel="noopener noreferrer">📷 ストリートビューで見る</a>
+        </div>
+      `;
+      l.bindPopup(html, { maxWidth: 280 });
+
       const item = document.createElement('div');
       item.className = 'list-item';
       const name = document.createElement('div');
@@ -113,8 +119,25 @@ fetch('shinagawa_facilities.geojson')
       item.appendChild(name);
       item.appendChild(a);
       panel.appendChild(item);
+    }
+  }).addTo(map);
+  if (feats.length) map.fitBounds(layer.getBounds(), { padding: [30, 30], maxZoom: 16 });
+}
+
+fetch('tokyo_facilities.geojson')
+  .then(r => r.json())
+  .then(data => {
+    allFeatures = data.features;
+    const sel = document.getElementById('ward');
+    const have = new Set(allFeatures.map(f => f.properties.ward));
+    WARDS.forEach(w => {
+      const o = document.createElement('option');
+      o.value = w;
+      o.textContent = w + (have.has(w) ? '' : '（データなし）');
+      sel.appendChild(o);
     });
-    map.fitBounds(layer.getBounds(), { padding: [30, 30] });
+    sel.addEventListener('change', () => render(sel.value));
+    render('');
   });
 
 const legend = L.control({ position: 'bottomright' });
@@ -125,6 +148,7 @@ legend.onAdd = function () {
     <span style="background:#2171b5"></span>地域センター・区民集会所（併設）<br>
     <span style="background:#f59f00"></span>地域センター（集会所なし）<br>
     <span style="background:#2ca02c"></span>区民集会所（単独）<br>
+    <span style="background:#7b3fa0"></span>集会施設（OpenStreetMap由来）<br>
     <span style="background:#888888"></span>その他施設
   `;
   return div;
