@@ -31,7 +31,7 @@
 <header>
   <h1>東京23区 地域センター・区民集会所 マップ</h1>
   <p><label>区を選ぶ：<select id="ward"><option value="">全区（東京23区）</option></select></label>
-  <span id="count"></span>　品川区・渋谷区は区の公式情報、他の区はOpenStreetMapの登録データ（登録漏れあり）</p>
+  <span id="count"></span>　品川区・渋谷区・文京区は区の公式情報、他の区はOpenStreetMapの登録データ（登録漏れあり）</p>
 </header>
 <div id="map"></div>
 
@@ -63,6 +63,8 @@ const COLOR = {
   '地域センター（集会所なし）': '#f59f00',
   '集会施設（OSM）': '#7b3fa0',
   '区民会館（区の公式情報）': '#d9480f',
+  '地域活動センター（区の公式情報）': '#0b7285',
+  '区民センター（区の公式情報）': '#d9480f',
   '地域交流センター（区の公式情報）': '#2171b5',
   '区民集会所（単独）': '#2ca02c',
   'その他施設': '#888888'
@@ -150,8 +152,9 @@ legend.onAdd = function () {
     <span style="background:#2171b5"></span>地域センター・区民集会所（併設）<br>
     <span style="background:#f59f00"></span>地域センター（集会所なし）<br>
     <span style="background:#2ca02c"></span>区民集会所（単独）<br>
-    <span style="background:#d9480f"></span>区民会館（区の公式情報）<br>
+    <span style="background:#d9480f"></span>区民会館・区民センター（区の公式情報）<br>
     <span style="background:#2171b5"></span>地域交流センター（区の公式情報）<br>
+    <span style="background:#0b7285"></span>地域活動センター（区の公式情報）<br>
     <span style="background:#7b3fa0"></span>集会施設（OpenStreetMap由来）<br>
     <span style="background:#888888"></span>その他施設
   `;
