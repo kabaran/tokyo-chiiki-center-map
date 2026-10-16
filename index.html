@@ -133,7 +133,9 @@ fetch('tokyo_facilities.geojson')
   .then(data => {
     allFeatures = data.features;
     const official = new Set(allFeatures.filter(f => f.properties.category.endsWith('（区の公式情報）') || f.properties.source.indexOf('品川区の公式') === 0).map(f => f.properties.ward));
-    document.getElementById('src').textContent = '区の公式情報：' + official.size + '区（' + [...official].map(w => w.replace('区', '')).join('・') + '）。その他の区はOpenStreetMapの登録データ（登録漏れあり）';
+    document.getElementById('src').textContent = official.size === WARDS.length
+      ? '各区の公式サイトの情報（2026-10-17確認）。区ごとに施設の呼び名が違い（区民館・地区会館・住区センター等）、公式サイトに載る範囲を掲載しています'
+      : '区の公式情報：' + official.size + '区。その他の区はOpenStreetMapの登録データ（登録漏れあり）';
     const sel = document.getElementById('ward');
     const have = new Set(allFeatures.map(f => f.properties.ward));
     WARDS.forEach(w => {
@@ -154,10 +156,9 @@ legend.onAdd = function () {
     <span style="background:#2171b5"></span>地域センター・区民集会所（併設）<br>
     <span style="background:#f59f00"></span>地域センター（集会所なし）<br>
     <span style="background:#2ca02c"></span>区民集会所（単独）<br>
-    <span style="background:#d9480f"></span>区民会館・区民館・区民センター・住区センター・ふれあい館など（区の公式情報）<br>
+    <span style="background:#d9480f"></span>区民会館・区民館・区民センター・住区センター・地区会館・集会所など（区の公式情報）<br>
     <span style="background:#2171b5"></span>地域交流センター（区の公式情報）<br>
     <span style="background:#0b7285"></span>地域活動センター（区の公式情報）<br>
-    <span style="background:#7b3fa0"></span>集会施設（OpenStreetMap由来）<br>
     <span style="background:#888888"></span>その他施設
   `;
   return div;
