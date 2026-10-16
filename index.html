@@ -16,6 +16,15 @@
   .legend { background: white; padding: 8px 10px; border-radius: 4px; box-shadow: 0 1px 4px rgba(0,0,0,.3); font-size: 0.78rem; line-height: 1.6; }
   .legend span { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
   .popup-title { font-weight: bold; margin-bottom: 4px; }
+  .sv-btn { display: inline-block; padding: 6px 12px; background: #1a73e8; color: #fff !important; border-radius: 4px; text-decoration: none; font-size: 0.85rem; font-weight: bold; }
+  .sv-btn:hover { background: #1558b0; }
+  .list-toggle { background: #fff; padding: 6px 10px; border-radius: 4px; box-shadow: 0 1px 4px rgba(0,0,0,.3); font-size: 0.85rem; cursor: pointer; border: 0; }
+  .list-panel { display: none; background: #fff; width: 280px; max-height: calc(100vh - 290px); overflow-y: auto; border-radius: 4px; box-shadow: 0 1px 4px rgba(0,0,0,.3); font-size: 0.8rem; }
+  .list-panel.open { display: block; }
+  .list-item { padding: 8px 10px; border-bottom: 1px solid #eee; }
+  .list-item .name { font-weight: bold; cursor: pointer; }
+  .list-item .name:hover { text-decoration: underline; }
+  .list-item .sv-btn { margin-top: 4px; padding: 3px 8px; font-size: 0.78rem; }
 </style>
 </head>
 <body>
@@ -40,6 +49,10 @@ function esc(s) {
   return String(s ?? '').replace(/[&<>"']/g, c => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
   }[c]));
+}
+
+function svUrl(lat, lng) {
+  return 'https://www.google.com/maps?layer=c&cbll=' + encodeURIComponent(lat) + ',' + encodeURIComponent(lng);
 }
 
 const COLOR = {
@@ -71,12 +84,36 @@ fetch('shinagawa_facilities.geojson')
           <div>種別：${esc(p.category)}</div>
           <div style="margin-top:4px;">${esc(p.note || '')}</div>
           <div style="margin-top:6px;">
-            <a href="https://www.google.com/maps?layer=c&cbll=${encodeURIComponent(lat)},${encodeURIComponent(lng)}" target="_blank" rel="noopener noreferrer">📷 ストリートビューで見る</a>
+            <a class="sv-btn" href="${svUrl(lat, lng)}" target="_blank" rel="noopener noreferrer">📷 ストリートビューで見る</a>
           </div>
         `;
         layer.bindPopup(html, { maxWidth: 280 });
       }
     }).addTo(map);
+
+    const panel = document.getElementById('list-panel');
+    layer.eachLayer(function (l) {
+      const p = l.feature.properties;
+      const [lng, lat] = l.feature.geometry.coordinates;
+      const item = document.createElement('div');
+      item.className = 'list-item';
+      const name = document.createElement('div');
+      name.className = 'name';
+      name.textContent = p.name;
+      name.addEventListener('click', function () {
+        map.setView([lat, lng], 17);
+        l.openPopup();
+      });
+      const a = document.createElement('a');
+      a.className = 'sv-btn';
+      a.href = svUrl(lat, lng);
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.textContent = '📷 ストリートビュー';
+      item.appendChild(name);
+      item.appendChild(a);
+      panel.appendChild(item);
+    });
     map.fitBounds(layer.getBounds(), { padding: [30, 30] });
   });
 
@@ -93,6 +130,19 @@ legend.onAdd = function () {
   return div;
 };
 legend.addTo(map);
+
+const listCtl = L.control({ position: 'topright' });
+listCtl.onAdd = function () {
+  const div = L.DomUtil.create('div');
+  div.innerHTML = '<button class="list-toggle" type="button">施設一覧・ストリートビュー</button><div id="list-panel" class="list-panel"></div>';
+  L.DomEvent.disableClickPropagation(div);
+  L.DomEvent.disableScrollPropagation(div);
+  div.querySelector('button').addEventListener('click', function () {
+    document.getElementById('list-panel').classList.toggle('open');
+  });
+  return div;
+};
+listCtl.addTo(map);
 </script>
 </body>
 </html>
