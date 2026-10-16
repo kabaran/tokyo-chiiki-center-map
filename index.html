@@ -31,7 +31,7 @@
 <header>
   <h1>東京23区 地域センター・区民集会所 マップ</h1>
   <p><label>区を選ぶ：<select id="ward"><option value="">全区（東京23区）</option></select></label>
-  <span id="count"></span>　品川区・渋谷区・文京区は区の公式情報、他の区はOpenStreetMapの登録データ（登録漏れあり）</p>
+  <span id="count"></span>　<span id="src"></span></p>
 </header>
 <div id="map"></div>
 
@@ -84,7 +84,7 @@ function render(ward) {
     pointToLayer: function (feature, latlng) {
       return L.circleMarker(latlng, {
         radius: 7,
-        fillColor: COLOR[feature.properties.category] || '#333',
+        fillColor: COLOR[feature.properties.category] || (feature.properties.category.endsWith('（区の公式情報）') ? '#d9480f' : '#333'),
         color: '#333',
         weight: 1,
         fillOpacity: 0.85
@@ -132,6 +132,8 @@ fetch('tokyo_facilities.geojson')
   .then(r => r.json())
   .then(data => {
     allFeatures = data.features;
+    const official = new Set(allFeatures.filter(f => f.properties.category.endsWith('（区の公式情報）') || f.properties.source.indexOf('品川区の公式') === 0).map(f => f.properties.ward));
+    document.getElementById('src').textContent = '区の公式情報：' + official.size + '区（' + [...official].map(w => w.replace('区', '')).join('・') + '）。その他の区はOpenStreetMapの登録データ（登録漏れあり）';
     const sel = document.getElementById('ward');
     const have = new Set(allFeatures.map(f => f.properties.ward));
     WARDS.forEach(w => {
@@ -152,7 +154,7 @@ legend.onAdd = function () {
     <span style="background:#2171b5"></span>地域センター・区民集会所（併設）<br>
     <span style="background:#f59f00"></span>地域センター（集会所なし）<br>
     <span style="background:#2ca02c"></span>区民集会所（単独）<br>
-    <span style="background:#d9480f"></span>区民会館・区民センター（区の公式情報）<br>
+    <span style="background:#d9480f"></span>区民会館・区民館・区民センター・住区センター・ふれあい館など（区の公式情報）<br>
     <span style="background:#2171b5"></span>地域交流センター（区の公式情報）<br>
     <span style="background:#0b7285"></span>地域活動センター（区の公式情報）<br>
     <span style="background:#7b3fa0"></span>集会施設（OpenStreetMap由来）<br>
