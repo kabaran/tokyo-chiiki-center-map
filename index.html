@@ -48,7 +48,7 @@
   integrity="sha384-cxOPjt7s7Iz04uaHJceBmS+qpjv2JkIHNVcuOrM+YHwZOmJGBXI00mdUXEq65HTH"
   crossorigin="anonymous"></script>
 <script>
-const map = L.map('map').setView([35.605, 139.72], 13);
+const map = L.map('map', { renderer: L.canvas({ tolerance: 8 }) }).setView([35.605, 139.72], 13);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 18,
@@ -82,6 +82,24 @@ const COLOR = {
 let allFeatures = [];
 let layer = null;
 
+// 地図の拡大率に合わせて、点の大きさを変える（全体表示では小さく、拡大すると大きく）
+function dotRadius(z) {
+  if (z <= 10) return 2;
+  if (z === 11) return 2.8;
+  if (z === 12) return 3.6;
+  if (z === 13) return 4.6;
+  if (z === 14) return 5.6;
+  if (z === 15) return 6.6;
+  return 7.6;
+}
+function dotWeight(z) { return z <= 12 ? 0.6 : 1; }
+function restyleDots() {
+  if (!layer) return;
+  const z = map.getZoom();
+  layer.eachLayer(l => { if (l.setStyle) l.setStyle({ radius: dotRadius(z), weight: dotWeight(z) }); });
+}
+map.on('zoomend', restyleDots);
+
 function render(ward) {
   if (layer) map.removeLayer(layer);
   const panel = document.getElementById('list-panel');
@@ -92,10 +110,10 @@ function render(ward) {
   layer = L.geoJSON({ type: 'FeatureCollection', features: feats }, {
     pointToLayer: function (feature, latlng) {
       return L.circleMarker(latlng, {
-        radius: 7,
+        radius: dotRadius(map.getZoom()),
         fillColor: COLOR[feature.properties.category] || (feature.properties.category.endsWith('（区の公式情報）') ? '#d9480f' : '#333'),
         color: '#333',
-        weight: 1,
+        weight: dotWeight(map.getZoom()),
         fillOpacity: 0.85
       });
     },
@@ -135,6 +153,7 @@ function render(ward) {
     }
   }).addTo(map);
   if (feats.length) map.fitBounds(layer.getBounds(), { padding: [30, 30], maxZoom: 16 });
+  restyleDots();
 }
 
 fetch('tokyo_facilities.geojson?v=' + Date.now())
