@@ -164,6 +164,7 @@ fetch('tokyo_facilities.geojson?v=' + Date.now())
     document.getElementById('src').textContent = official.size === WARDS.length
       ? '各区の公式サイトの情報（2026-10-17確認）。区ごとに施設の呼び名が違い（区民館・地区会館・住区センター等）、公式サイトに載る範囲を掲載しています'
       : '区の公式情報：' + official.size + '区。その他の区はOpenStreetMapの登録データ（登録漏れあり）';
+    document.getElementById('src').textContent += '　［版：2026-10-18 点を小さく調整済み］';
     const sel = document.getElementById('ward');
     const have = new Set(allFeatures.map(f => f.properties.ward));
     WARDS.forEach(w => {
