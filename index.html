@@ -175,6 +175,9 @@ function render(ward) {
 // ---- 認知症カフェ（品川区のみ）別レイヤー ----
 function cafePopup(p, lat, lng) {
   const pause = p.paused ? '<div class="cafe-warn">※区のページで「現在休止中」とされています</div>' : '';
+  const tel = /^0\d{1,3}-\d{2,4}-\d{4}$/.test(p.phone || '')
+    ? '<br><a class="sv-btn" href="tel:' + esc(p.phone.replace(/-/g, '')) + '">📞 ' + esc(p.phone) + ' に電話する</a>'
+    : '<br>電話番号は、下の出典（区のページ）で確かめてください';
   const url = /^https:\/\//.test(p.source_url || '') ? p.source_url : '';
   return `
     <div class="popup-title">${esc(p.name)}</div>
@@ -183,6 +186,7 @@ function cafePopup(p, lat, lng) {
     <div>${esc(p.address)}</div>
     <div>開催：${esc(p.schedule)}</div>
     <div>参加費：${esc(p.fee)}　予約：${esc(p.reservation)}</div>
+    <div>問い合わせ：${esc(p.contact_org || '')}${tel}</div>
     <div style="margin-top:4px;font-size:0.75rem;color:#666;">開催日は変わることがあります。行く前に区のページで確かめてください。位置は住所からの推定で、現地では確認していません。</div>
     <div style="margin-top:4px;font-size:0.75rem;color:#666;">出典：${url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(p.source) + '</a>' : esc(p.source)}</div>
     <div style="margin-top:6px;"><a class="sv-btn" href="${svUrl(lat, lng)}" target="_blank" rel="noopener noreferrer">📷 ストリートビューで見る</a></div>
