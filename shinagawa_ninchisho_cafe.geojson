@@ -1,0 +1,993 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.717224,
+     35.62822
+    ]
+   },
+   "properties": {
+    "name": "うさぎカフェ",
+    "category": "認知症カフェ（休止中）",
+    "ward": "品川区",
+    "district": "大崎",
+    "venue": "西五反田高齢者複合施設",
+    "address": "東京都品川区西五反田3-6-6",
+    "schedule": "毎月第3土曜日 午後2時～4時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": true,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区西五反田三丁目６番６号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.715973,
+     35.626713
+    ]
+   },
+   "properties": {
+    "name": "carna(カルナ)カフェ",
+    "category": "認知症カフェ（休止中）",
+    "ward": "品川区",
+    "district": "大崎",
+    "venue": "carna 五反田",
+    "address": "東京都品川区西五反田3-10-9",
+    "schedule": "毎月第3水曜日 午後2時～4時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": true,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区西五反田三丁目１０番９号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.72612,
+     35.630135
+    ]
+   },
+   "properties": {
+    "name": "きのこカフェ 東五反田",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "大崎",
+    "venue": "東五反田倶楽部",
+    "address": "東京都品川区東五反田4-11-6",
+    "schedule": "毎月第2木曜日 午後2時～4時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区東五反田四丁目１１番６号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.716568,
+     35.622833
+    ]
+   },
+   "properties": {
+    "name": "モクヨン五反田カフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "大崎",
+    "venue": "五反田文化センター",
+    "address": "東京都品川区西五反田6-5-1",
+    "schedule": "毎月第4木曜日 午後2時～3時30分",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区西五反田六丁目５番１号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.716263,
+     35.631264
+    ]
+   },
+   "properties": {
+    "name": "モーニングパーク",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "大崎",
+    "venue": "E-Park",
+    "address": "東京都品川区西五反田3-1-2",
+    "schedule": "毎週水曜日 午前9時～11時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区西五反田三丁目１番２号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.724792,
+     35.618809
+    ]
+   },
+   "properties": {
+    "name": "おおさきオレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "大崎",
+    "venue": "大崎図書館分館",
+    "address": "東京都品川区大崎3-12-22",
+    "schedule": "毎月第3木曜日 午後2時～3時30分",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区大崎三丁目１２番２２号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.746918,
+     35.616848
+    ]
+   },
+   "properties": {
+    "name": "アットホームカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "品川",
+    "venue": "社会福祉法人 福栄会 本部",
+    "address": "東京都品川区東品川3-1-8",
+    "schedule": "毎月第4土曜日 午前10時～11時",
+    "fee": "無料 (飲物代別途)",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区東品川三丁目１番８号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.740494,
+     35.620583
+    ]
+   },
+   "properties": {
+    "name": "きたいちカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "品川",
+    "venue": "北一会館",
+    "address": "東京都品川区北品川1-28-2",
+    "schedule": "毎月第4木曜日 午後2時～3時30分",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区北品川一丁目２８番２号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.731384,
+     35.623032
+    ]
+   },
+   "properties": {
+    "name": "けあきょうcafé",
+    "category": "認知症カフェ（休止中）",
+    "ward": "品川区",
+    "district": "品川",
+    "venue": "品川リハビリテーションパーク",
+    "address": "東京都品川区北品川5-2-1",
+    "schedule": "毎月第3水曜日 午後2時～4時",
+    "fee": "250円",
+    "reservation": "必要",
+    "paused": true,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区北品川五丁目２番１号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.745026,
+     35.614086
+    ]
+   },
+   "properties": {
+    "name": "よりどころ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "品川",
+    "venue": "東親会町会々館",
+    "address": "東京都品川区東品川3-14-34",
+    "schedule": "毎月第2木曜日 午後1時30分～4時",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区東品川三丁目１４番３４号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.742096,
+     35.616867
+    ]
+   },
+   "properties": {
+    "name": "しなとしょカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "品川",
+    "venue": "品川図書館",
+    "address": "東京都品川区北品川2-32-3",
+    "schedule": "毎月第2木曜日 午後2時～3時または3時30分",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区北品川二丁目３２番３号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.742645,
+     35.618191
+    ]
+   },
+   "properties": {
+    "name": "あけぼのカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "品川",
+    "venue": "あけぼの薬局 新馬場店",
+    "address": "東京都品川区北品川2-23-2 レジデンス品川 1階",
+    "schedule": "毎月第3金曜日 午後1時30分～3時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区北品川二丁目２３番２号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.741989,
+     35.61195
+    ]
+   },
+   "properties": {
+    "name": "みもざかふぇ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "品川",
+    "venue": "みもざかふぇ",
+    "address": "東京都品川区南品川2-2-5",
+    "schedule": "毎月第3土曜日 午後4時～6時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区南品川二丁目２番５号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.748322,
+     35.611347
+    ]
+   },
+   "properties": {
+    "name": "マイスキューカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "品川",
+    "venue": "マイスキュー品川シーサイド店",
+    "address": "東京都品川区東品川4-12-5",
+    "schedule": "毎月第4金曜日 午後4時～6時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区東品川四丁目１２番５号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.695816,
+     35.611675
+    ]
+   },
+   "properties": {
+    "name": "いきいきカフェ 小山七丁目",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "洗足会館",
+    "address": "東京都品川区小山7-5-18",
+    "schedule": "毎月第3火曜日・第4月曜日 午後1時30分～4時",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区小山七丁目５番１８号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.710678,
+     35.61203
+    ]
+   },
+   "properties": {
+    "name": "えばらなごみカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "荏原文化センター",
+    "address": "東京都品川区中延1-9-15",
+    "schedule": "毎月第3金曜日 午後2時～4時",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区中延一丁目９番１５号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.713989,
+     35.617096
+    ]
+   },
+   "properties": {
+    "name": "カフェ・ひらゆう",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "平塚ゆうゆうプラザ",
+    "address": "東京都品川区平塚2-10-20",
+    "schedule": "毎月第1水曜日・第3木曜日 午後2時～3時30分",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区平塚二丁目１０番２０号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.696854,
+     35.609085
+    ]
+   },
+   "properties": {
+    "name": "きのこカフェ 小山",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "小山倶楽部",
+    "address": "東京都品川区小山7-14-4",
+    "schedule": "毎月第1・3・5金曜日 午後2時～4時",
+    "fee": "無料(飲物代別途)",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区小山七丁目１４番４号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.725418,
+     35.609547
+    ]
+   },
+   "properties": {
+    "name": "とごしカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "武石接骨院 とごしリハビリケアプランセンター",
+    "address": "東京都品川区豊町2-17-8",
+    "schedule": "毎週水曜日 午前10時～正午",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区豊町二丁目１７番８号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.711014,
+     35.610119
+    ]
+   },
+   "properties": {
+    "name": "中延もちよりカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "荏原中原クリニック",
+    "address": "東京都品川区中延2-15-3",
+    "schedule": "毎月1回 午後1時30分～3時",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区中延二丁目１５番３号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.700394,
+     35.604687
+    ]
+   },
+   "properties": {
+    "name": "ほうらいや みんなのサロン",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "ほうらいや",
+    "address": "東京都品川区旗の台5-14-2",
+    "schedule": "毎週水曜日 午前10時～正午",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区旗の台五丁目１４番２号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7202,
+     35.605965
+    ]
+   },
+   "properties": {
+    "name": "ゆたかの家 クローバー",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "ゆたか診療所 3階",
+    "address": "東京都品川区豊町4-18-21",
+    "schedule": "毎月第2土曜日 午前10時～11時30分",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区豊町四丁目１８番２１号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.718506,
+     35.607475
+    ]
+   },
+   "properties": {
+    "name": "えがおのじかん",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "＠ウーヴ",
+    "address": "東京都品川区戸越6-8-7",
+    "schedule": "毎月第3水曜日 午前10時～正午",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区戸越六丁目８番７号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.699539,
+     35.613609
+    ]
+   },
+   "properties": {
+    "name": "オレンジらんぷ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "カフェ・アミカルモン",
+    "address": "東京都品川区小山6-9-9 コーポアキマル 1階",
+    "schedule": "毎月第3金曜日 午後6時20分～7時50分",
+    "fee": "300円",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区小山六丁目９番９号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.701859,
+     35.61932
+    ]
+   },
+   "properties": {
+    "name": "小山ふれあいカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "小山台会館",
+    "address": "東京都品川区小山4-11-12",
+    "schedule": "毎月第1金曜日 午前10時～正午",
+    "fee": "100円",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区小山四丁目１１番１２号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.72583,
+     35.605362
+    ]
+   },
+   "properties": {
+    "name": "ポッポカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "ポッポ堂薬局 二葉店",
+    "address": "東京都品川区二葉1-13-12",
+    "schedule": "毎月第2火曜日 午後2時～4時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区二葉一丁目１３番１２号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.698471,
+     35.611874
+    ]
+   },
+   "properties": {
+    "name": "プレザンカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "プレザングラン洗足",
+    "address": "東京都品川区荏原7-2-1",
+    "schedule": "毎月第4火曜日 午後2時～3時30分",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区荏原七丁目２番１号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.728897,
+     35.607704
+    ]
+   },
+   "properties": {
+    "name": "うたちかカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "荏原",
+    "venue": "磯平",
+    "address": "東京都品川区二葉1-10-11",
+    "schedule": "毎月最終日曜日 午後3時～4時30分",
+    "fee": "300円",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区二葉一丁目１０番１１号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.733505,
+     35.59494
+    ]
+   },
+   "properties": {
+    "name": "スマイルカフェさくら",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "大井",
+    "venue": "社会福祉法人 さくら会",
+    "address": "東京都品川区南大井5-19-1",
+    "schedule": "5・8・2月の第1日曜日 11月の第2日曜日 午前10時～正午",
+    "fee": "100円",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区南大井五丁目１９番１号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.722626,
+     35.600109
+    ]
+   },
+   "properties": {
+    "name": "西大井カフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "大井",
+    "venue": "西大井在宅サービスセンター",
+    "address": "東京都品川区西大井2-4-4",
+    "schedule": "毎月第4日曜日 午後1時～3時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区西大井二丁目４番４号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.735367,
+     35.603962
+    ]
+   },
+   "properties": {
+    "name": "日生きずなカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "大井",
+    "venue": "日生薬局大井町店",
+    "address": "東京都品川区東大井6-4-3",
+    "schedule": "毎月第4月曜日 午後2時30分～4時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区東大井六丁目４番３号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.722549,
+     35.599388
+    ]
+   },
+   "properties": {
+    "name": "花めいと",
+    "category": "認知症カフェ（休止中）",
+    "ward": "品川区",
+    "district": "大井",
+    "venue": "けめともの家 カンタキ西大井",
+    "address": "東京都品川区西大井2-4-14",
+    "schedule": "毎月第3日曜日 午後1時～3時",
+    "fee": "100円",
+    "reservation": "必要",
+    "paused": true,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区西大井二丁目４番１４号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.733063,
+     35.607132
+    ]
+   },
+   "properties": {
+    "name": "プラチナカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "大井",
+    "venue": "PARK COFFEE 大井町",
+    "address": "東京都品川区大井1-8-3",
+    "schedule": "毎月第3月曜日 午前10時～正午 午後1時30分～3時30分",
+    "fee": "無料 (飲物代別途)",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区大井一丁目８番３号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.733383,
+     35.601318
+    ]
+   },
+   "properties": {
+    "name": "大井中央病院 カトレアカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "大井",
+    "venue": "大井中央病院",
+    "address": "東京都品川区大井4-11-27",
+    "schedule": "毎月第2・4火曜日 午後2時～3時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区大井四丁目１１番２７号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.751297,
+     35.597702
+    ]
+   },
+   "properties": {
+    "name": "café えがお工房",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "八潮",
+    "venue": "こみゅにてぃぷらざ八潮",
+    "address": "東京都品川区八潮5-9-11",
+    "schedule": "毎月第3金曜日 午後2時～4時",
+    "fee": "無料",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区八潮五丁目９番１１号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.750809,
+     35.600082
+    ]
+   },
+   "properties": {
+    "name": "さわやか",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "八潮",
+    "venue": "八潮地域センター",
+    "address": "東京都品川区八潮5-10-27",
+    "schedule": "毎月第1・4日曜日、 第3土曜日 午前10時～正午 毎月第2日曜日 正午～午後2時",
+    "fee": "無料 (第2日曜日のみお弁当代100円)",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区八潮五丁目１０番２７号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.751297,
+     35.597702
+    ]
+   },
+   "properties": {
+    "name": "やしおカフェ",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "八潮",
+    "venue": "こみゅにてぃぷらざ八潮",
+    "address": "東京都品川区八潮5-9-11",
+    "schedule": "毎月第2月曜日 午後2時～4時",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区八潮五丁目９番１１号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.750809,
+     35.600082
+    ]
+   },
+   "properties": {
+    "name": "八潮としょかん Cafe",
+    "category": "認知症カフェ",
+    "ward": "品川区",
+    "district": "八潮",
+    "venue": "八潮地域センター",
+    "address": "東京都品川区八潮5-10-27",
+    "schedule": "毎月第4月曜日 午後2時～4時",
+    "fee": "無料",
+    "reservation": "必要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都品川区八潮五丁目１０番２７号",
+    "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+   }
+  }
+ ]
+}
