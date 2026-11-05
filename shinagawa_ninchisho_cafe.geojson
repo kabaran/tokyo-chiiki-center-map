@@ -24,7 +24,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区西五反田三丁目６番６号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "社会福祉法人 さくら会 西五反田事業部",
+    "phone": "03-5434-7831"
    }
   },
   {
@@ -50,7 +52,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区西五反田三丁目１０番９号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "医療法人社団 武蔵野会 carna 五反田",
+    "phone": "03-5496-0671"
    }
   },
   {
@@ -76,7 +80,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区東五反田四丁目１１番６号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "社会福祉法人 新生寿会 東五反田倶楽部",
+    "phone": "03-5422-7157"
    }
   },
   {
@@ -102,7 +108,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区西五反田六丁目５番１号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "品川区立五反田図書館",
+    "phone": "03-3492-2131"
    }
   },
   {
@@ -128,7 +136,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区西五反田三丁目１番２号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "一般社団法人 めぐもり",
+    "phone": null
    }
   },
   {
@@ -154,7 +164,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区大崎三丁目１２番２２号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "品川区立大崎図書館分館",
+    "phone": "03-3491-3430"
    }
   },
   {
@@ -180,7 +192,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区東品川三丁目１番８号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "社会福祉法人 福栄会 東品川在宅介護支援センター",
+    "phone": "03-5479-2793"
    }
   },
   {
@@ -206,7 +220,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区北品川一丁目２８番２号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "株式会社 大崎ホームヘルプ サービス 小規模多機能型 居宅介護事業所 おもてなし",
+    "phone": "03-3450-6464"
    }
   },
   {
@@ -232,7 +248,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区北品川五丁目２番１号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "特定非営利活動法人 品川ケア協議会",
+    "phone": "03-5447-7225"
    }
   },
   {
@@ -258,7 +276,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区東品川三丁目１４番３４号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "株式会社 大崎ホームヘルプサービス 東品川第二在宅介護支援センター",
+    "phone": "03-5783-2656"
    }
   },
   {
@@ -284,7 +304,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区北品川二丁目３２番３号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "品川区立品川図書館",
+    "phone": "03-3471-4667"
    }
   },
   {
@@ -310,7 +332,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区北品川二丁目２３番２号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "あけぼの薬局 新馬場店",
+    "phone": "03-5769-4189"
    }
   },
   {
@@ -336,7 +360,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区南品川二丁目２番５号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "ミモザ株式会社",
+    "phone": "03-3790-7780"
    }
   },
   {
@@ -362,7 +388,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区東品川四丁目１２番５号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "イオンリテール株式会社 MySCUE事業部",
+    "phone": null
    }
   },
   {
@@ -388,7 +416,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区小山七丁目５番１８号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "小山七丁目町会",
+    "phone": "03-3783-0894"
    }
   },
   {
@@ -414,7 +444,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区中延一丁目９番１５号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "品川区立荏原図書館",
+    "phone": "03-3784-2557"
    }
   },
   {
@@ -440,7 +472,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区平塚二丁目１０番２０号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "社会福祉法人 福栄会 平塚ゆうゆうプラザ",
+    "phone": "03-5751-7070"
    }
   },
   {
@@ -466,7 +500,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区小山七丁目１４番４号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "社会福祉法人 新生寿会 小山倶楽部",
+    "phone": "03-5751-7205"
    }
   },
   {
@@ -492,7 +528,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区豊町二丁目１７番８号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "武石接骨院 とごしリハビリケアプランセンター",
+    "phone": "03-3781-4450"
    }
   },
   {
@@ -518,7 +556,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区中延二丁目１５番３号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "医療法人社団 恵泉会 荏原中延クリニック",
+    "phone": "03-6426-6033"
    }
   },
   {
@@ -544,7 +584,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区旗の台五丁目１４番２号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "旗の台南町会",
+    "phone": null
    }
   },
   {
@@ -570,7 +612,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区豊町四丁目１８番２１号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "城南保健生活協同組合 ゆたかの家",
+    "phone": "03-3762-0266"
    }
   },
   {
@@ -596,7 +640,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区戸越六丁目８番７号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "特定非営利活動法人 ウーヴ",
+    "phone": "03-5498-3135"
    }
   },
   {
@@ -622,7 +668,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区小山六丁目９番９号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "橙(オレンジ)プロジェクト",
+    "phone": null
    }
   },
   {
@@ -648,7 +696,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区小山四丁目１１番１２号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "品川区鍼灸師会",
+    "phone": null
    }
   },
   {
@@ -674,7 +724,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区二葉一丁目１３番１２号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "ポッポ堂薬局 二葉店",
+    "phone": "03-6426-1036"
    }
   },
   {
@@ -700,7 +752,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区荏原七丁目２番１号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "プレザングラン洗足",
+    "phone": "03-5751-7221"
    }
   },
   {
@@ -726,7 +780,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区二葉一丁目１０番１１号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "特定非営利活動法人 歌の力",
+    "phone": null
    }
   },
   {
@@ -752,7 +808,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区南大井五丁目１９番１号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "社会福祉法人さくら会",
+    "phone": "03-5753-3900"
    }
   },
   {
@@ -778,7 +836,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区西大井二丁目４番４号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "社会福祉法人 春光福祉会 西大井在宅介護支援センター",
+    "phone": "03-5743-6120"
    }
   },
   {
@@ -804,7 +864,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区東大井六丁目４番３号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "ミアヘルサ株式会社 日生薬局大井町店",
+    "phone": "03-5767-8931"
    }
   },
   {
@@ -830,7 +892,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区西大井二丁目４番１４号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "株式会社 ケアメイト",
+    "phone": "03-6303-8050"
    }
   },
   {
@@ -856,7 +920,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区大井一丁目８番３号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "認定NPO法人 プラチナ美容塾",
+    "phone": null
    }
   },
   {
@@ -882,7 +948,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区大井四丁目１１番２７号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "大井中央病院 リハビリテーション科",
+    "phone": null
    }
   },
   {
@@ -908,7 +976,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区八潮五丁目９番１１号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "品川区高齢者福祉団体 チーム潮クラブ",
+    "phone": null
    }
   },
   {
@@ -934,7 +1004,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区八潮五丁目１０番２７号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "品川区高齢者福祉団体 銀幕塾",
+    "phone": null
    }
   },
   {
@@ -960,7 +1032,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区八潮五丁目９番１１号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "NPO法人 協働まちづくり",
+    "phone": null
    }
   },
   {
@@ -986,7 +1060,9 @@
     "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
     "geocode_match": "東京都品川区八潮五丁目１０番２７号",
     "source": "品川区「認知症カフェ」ページ（令和8年4月1日時点・2026年10月13日更新）",
-    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html"
+    "source_url": "https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-koureisya/ninchisyo/hpg000033569.html",
+    "contact_org": "品川区立八潮図書館",
+    "phone": "03-3799-1414"
    }
   }
  ]
