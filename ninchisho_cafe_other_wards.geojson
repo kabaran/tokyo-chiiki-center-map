@@ -488,6 +488,232 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     139.781036,
+     35.671249
+    ]
+   },
+   "properties": {
+    "name": "優っくりカフェ",
+    "category": "認知症カフェ",
+    "ward": "中央区",
+    "district": "湊",
+    "venue": "優っくり村中央湊（パークシティ中央湊 ザ レジデンス）",
+    "address": "東京都中央区湊2-16-23",
+    "schedule": "偶数月の第2土曜日 14:00～16:00",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中央区湊二丁目１６番２３号",
+    "source": "中央区「認知症カフェに遊びに来ませんか」ページ（掲載日2026年5月25日）・認知症カフェ実施状況PDF（令和8年4月現在）",
+    "source_url": "https://www.city.chuo.lg.jp/a0029/kenkouiryou/koureikaigo/ninchishou/ninchishoucafe.html",
+    "contact_org": "社会福祉法人奉優会 優っくり村中央湊",
+    "phone": "03-6280-4663"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.776657,
+     35.669617
+    ]
+   },
+   "properties": {
+    "name": "明石町カフェ",
+    "category": "認知症カフェ",
+    "ward": "中央区",
+    "district": "明石町",
+    "venue": "コーヒーラウンジアラジン（リハポート明石等複合施設1階）",
+    "address": "東京都中央区明石町1-6",
+    "schedule": "6月・9月・12月・3月（不定期）15:00～16:00（変更の可能性あり）",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中央区明石町１番６号",
+    "source": "中央区「認知症カフェに遊びに来ませんか」ページ（掲載日2026年5月25日）・認知症カフェ実施状況PDF（令和8年4月現在）",
+    "source_url": "https://www.city.chuo.lg.jp/a0029/kenkouiryou/koureikaigo/ninchishou/ninchishoucafe.html",
+    "contact_org": "京橋おとしより相談センター",
+    "phone": "03-3545-1107"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7742,
+     35.667686
+    ]
+   },
+   "properties": {
+    "name": "せいるか・オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "中央区",
+    "district": "築地",
+    "venue": "大村進・美枝子記念聖路加臨床学術センター 1階会議室",
+    "address": "東京都中央区築地3-6-2",
+    "schedule": "奇数月の第3木曜日 13:30～15:00（終了後に家族相談会・個別相談。要予約）",
+    "fee": "記載なし",
+    "reservation": "要予約（家族相談会・個別相談）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中央区築地三丁目６番２号",
+    "source": "中央区「認知症カフェに遊びに来ませんか」ページ（掲載日2026年5月25日）・認知症カフェ実施状況PDF（令和8年4月現在）",
+    "source_url": "https://www.city.chuo.lg.jp/a0029/kenkouiryou/koureikaigo/ninchishou/ninchishoucafe.html",
+    "contact_org": "聖路加国際病院 相談・支援センター",
+    "phone": "03-5962-7227"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.787369,
+     35.666119
+    ]
+   },
+   "properties": {
+    "name": "みんな de デイサービス",
+    "category": "認知症カフェ",
+    "ward": "中央区",
+    "district": "佃",
+    "venue": "相生の里",
+    "address": "東京都中央区佃3-1-15",
+    "schedule": "4月・10月の第4日曜日 14:00～16:00（変更の可能性あり）",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中央区佃三丁目１番１５号",
+    "source": "中央区「認知症カフェに遊びに来ませんか」ページ（掲載日2026年5月25日）・認知症カフェ実施状況PDF（令和8年4月現在）",
+    "source_url": "https://www.city.chuo.lg.jp/a0029/kenkouiryou/koureikaigo/ninchishou/ninchishoucafe.html",
+    "contact_org": "みんなdeデイサービス実行委員会（SOMPOケアあいおいに繋がります）",
+    "phone": "03-5548-2492"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.777954,
+     35.660923
+    ]
+   },
+   "properties": {
+    "name": "行ってみようか認知症カフェ",
+    "category": "認知症カフェ",
+    "ward": "中央区",
+    "district": "勝どき",
+    "venue": "勝どきデイルーム（1階）",
+    "address": "東京都中央区勝どき1-5-1",
+    "schedule": "第4日曜日 14:00～16:00",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中央区勝どき一丁目５番１号",
+    "source": "中央区「認知症カフェに遊びに来ませんか」ページ（掲載日2026年5月25日）・認知症カフェ実施状況PDF（令和8年4月現在）",
+    "source_url": "https://www.city.chuo.lg.jp/a0029/kenkouiryou/koureikaigo/ninchishou/ninchishoucafe.html",
+    "contact_org": "特定非営利活動法人 CIMネット",
+    "phone": "03-6280-3811",
+    "email": "cimnet2025@gmail.com"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.787201,
+     35.661091
+    ]
+   },
+   "properties": {
+    "name": "晴海苑オレンジカフェ（休止中）",
+    "category": "認知症カフェ（休止中）",
+    "ward": "中央区",
+    "district": "晴海",
+    "venue": "高齢者総合福祉施設 晴海苑",
+    "address": "東京都中央区晴海1-1-26",
+    "schedule": "休止（区の実施状況に「休止」とあり）",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": true,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中央区晴海一丁目１番２６号",
+    "source": "中央区「認知症カフェに遊びに来ませんか」ページ（掲載日2026年5月25日）・認知症カフェ実施状況PDF（令和8年4月現在）",
+    "source_url": "https://www.city.chuo.lg.jp/a0029/kenkouiryou/koureikaigo/ninchishou/ninchishoucafe.html",
+    "contact_org": "社会福祉法人トーリケアネット 晴海苑",
+    "phone": "03-3533-7148"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.787201,
+     35.661091
+    ]
+   },
+   "properties": {
+    "name": "認知症家族の語りの場",
+    "category": "認知症カフェ",
+    "ward": "中央区",
+    "district": "晴海",
+    "venue": "高齢者総合福祉施設 晴海苑（オンライン同時開催）",
+    "address": "東京都中央区晴海1-1-26",
+    "schedule": "奇数月の第3日曜日 13:30～15:00",
+    "fee": "記載なし",
+    "reservation": "要予約（オンライン参加）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中央区晴海一丁目１番２６号",
+    "source": "中央区「認知症カフェに遊びに来ませんか」ページ（掲載日2026年5月25日）・認知症カフェ実施状況PDF（令和8年4月現在）",
+    "source_url": "https://www.city.chuo.lg.jp/a0029/kenkouiryou/koureikaigo/ninchishou/ninchishoucafe.html",
+    "contact_org": "家族中心（市民活動団体）（晴海苑に繋がります）",
+    "phone": "03-3533-7148",
+    "email": "wkiwki.d-family2018@outlook.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.77948,
+     35.65567
+    ]
+   },
+   "properties": {
+    "name": "サロンはるみさん",
+    "category": "認知症カフェ",
+    "ward": "中央区",
+    "district": "晴海",
+    "venue": "ベイシティ晴海スカイリンクタワー 2階集会室",
+    "address": "東京都中央区晴海3-6-8",
+    "schedule": "第1金曜日 13:30～15:00",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中央区晴海三丁目６番８号",
+    "source": "中央区「認知症カフェに遊びに来ませんか」ページ（掲載日2026年5月25日）・認知症カフェ実施状況PDF（令和8年4月現在）",
+    "source_url": "https://www.city.chuo.lg.jp/a0029/kenkouiryou/koureikaigo/ninchishou/ninchishoucafe.html",
+    "contact_org": "サロンはるみさん運営委員会（留守電に連絡先を録音。後日連絡）",
+    "phone": "03-3534-8035"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      139.793381,
      35.71899
     ]
