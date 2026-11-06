@@ -4094,6 +4094,913 @@
     "contact_org": "高島平ココからステーション",
     "phone": "03-6909-7645"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652878,
+     35.737988
+    ]
+   },
+   "properties": {
+    "name": "認知症を考えるカフェ練馬",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "練馬",
+    "venue": "区民・産業プラザ",
+    "address": "東京都練馬区練馬1-17-1",
+    "schedule": "第2木曜日 9:30～12:00",
+    "fee": "300円",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区練馬一丁目１７番１号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "認知症を考えるカフェ練馬（連絡先は個人の携帯・メールのため掲載せず）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.667007,
+     35.739285
+    ]
+   },
+   "properties": {
+    "name": "本人ミーティング「しゃべり場」",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "桜台",
+    "venue": "街かどケアカフェさくら",
+    "address": "東京都練馬区桜台1-22-9",
+    "schedule": "第2火曜日 14:00～15:00",
+    "fee": "なし",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区桜台一丁目２２番９号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "桜台地域包括支援センター",
+    "phone": "03-5946-2311",
+    "email": "iku-shisyo@ikushukai.or.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.667007,
+     35.739285
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ「てくてくの会」",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "桜台",
+    "venue": "街かどケアカフェさくら",
+    "address": "東京都練馬区桜台1-22-9",
+    "schedule": "第4火曜日 14:00～15:00",
+    "fee": "なし",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区桜台一丁目２２番９号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "桜台地域包括支援センター",
+    "phone": "03-5946-2311",
+    "email": "iku-shisyo@ikushukai.or.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656815,
+     35.742241
+    ]
+   },
+   "properties": {
+    "name": "夢見草の会",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "桜台",
+    "venue": "練馬バプテスト教会",
+    "address": "東京都練馬区桜台5-18-3",
+    "schedule": "第3金曜日 14:00～15:00",
+    "fee": "なし",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区桜台五丁目１８番３号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "桜台地域包括支援センター",
+    "phone": "03-5946-2311",
+    "email": "iku-shisyo@ikushukai.or.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635544,
+     35.738159
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ・ゆとりろ",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "貫井",
+    "venue": "中村橋区民センター 2階会議室1・2",
+    "address": "東京都練馬区貫井1-9-1",
+    "schedule": "第3金曜日 14:00～15:00",
+    "fee": "なし",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区貫井一丁目９番",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "中村橋地域包括支援センター",
+    "phone": "03-3577-8815",
+    "email": "nakamurabashi-houkatu@foryou.or.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.644501,
+     35.739269
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ はればれ",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "向山",
+    "venue": "ふろしき・ねこの手",
+    "address": "東京都練馬区向山2-3-7",
+    "schedule": "第4火曜日 14:00～15:00",
+    "fee": "なし",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区向山二丁目３番７号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "中村橋地域包括支援センター",
+    "phone": "03-3577-8815",
+    "email": "nakamurabashi-houkatu@foryou.or.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63855,
+     35.736103
+    ]
+   },
+   "properties": {
+    "name": "オープンドア・プロジェクト オレンジカフェ＠マクドナルド中村橋店",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "中村北",
+    "venue": "マクドナルド中村橋店",
+    "address": "東京都練馬区中村北3-22-9",
+    "schedule": "毎月最終木曜日 10:00～11:30（店舗の都合で変更する場合あり）",
+    "fee": "1人1品以上の注文",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区中村北三丁目２２番９号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "練馬区 高齢者支援課 在宅介護支援係",
+    "phone": "03-5984-4597"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.675781,
+     35.733738
+    ]
+   },
+   "properties": {
+    "name": "認知症カフェ「ホワイエえこだ」",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "旭丘",
+    "venue": "ホワイエえこだ",
+    "address": "東京都練馬区旭丘1-33-10",
+    "schedule": "奇数月の第2水曜日 13:30～15:30",
+    "fee": "200円",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区旭丘一丁目３３番１０号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "公益社団法人 認知症の人と家族の会 東京都支部",
+    "phone": "03-5367-8853"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625824,
+     35.757977
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェアリス",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "光が丘",
+    "venue": "NPOむすび（外階段2階）",
+    "address": "東京都練馬区光が丘3-9-3",
+    "schedule": "毎週月曜日 10:00～12:00",
+    "fee": "100円",
+    "reservation": "不要（初回のみ要予約）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区光が丘三丁目９番",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "特定非営利活動法人むすび",
+    "phone": "03-6904-3275",
+    "email": "musubiclub@yahoo.co.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617767,
+     35.766136
+    ]
+   },
+   "properties": {
+    "name": "なないろカフェ",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "土支田",
+    "venue": "第3育秀苑 地域交流室",
+    "address": "東京都練馬区土支田1-31-5",
+    "schedule": "毎月第2火曜日 10:00～11:30",
+    "fee": "100円",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区土支田一丁目３１番５号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "第3育秀苑デイサービスセンターレインボー",
+    "phone": "03-6904-0105"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635559,
+     35.76297
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェたがら",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "田柄",
+    "venue": "田柄特別養護老人ホーム",
+    "address": "東京都練馬区田柄4-12-10",
+    "schedule": "区のリストでは「HPをご覧ください」とのみ記載",
+    "fee": "内容による",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区田柄四丁目１２番１０号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "練馬区社会福祉事業団 田柄特別養護老人ホーム",
+    "phone": "03-3825-1551",
+    "email": "tagara-tokuyoh@nerima-swf.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.573105,
+     35.720112
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェえんがわ",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "関町南",
+    "venue": "慈雲堂病院 C棟5階",
+    "address": "東京都練馬区関町南4-14-53",
+    "schedule": "第4土曜日 13:00～15:00",
+    "fee": "100円",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区関町南四丁目１４番５３号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "慈雲堂病院",
+    "phone": "03-3928-6511",
+    "email": "renkeishitsu@jiundo.or.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.572769,
+     35.726952
+    ]
+   },
+   "properties": {
+    "name": "メンズカフェ ふれんどり～",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "関町北",
+    "venue": "相談情報ひろば「ほのぼの館 関」（武蔵関サープラス1階）",
+    "address": "東京都練馬区関町北3-27-1",
+    "schedule": "第1火曜日 10:30～15:00",
+    "fee": "なし",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区関町北三丁目２７番１号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "認知症介護家族パートナーボランティアグループ「みちくさ」",
+    "phone": "03-5903-8381"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.57991,
+     35.734367
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ金のまり",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "石神井台",
+    "venue": "デイサービス金のまり",
+    "address": "東京都練馬区石神井台8-8-8",
+    "schedule": "第2日曜日 11:00～13:00",
+    "fee": "なし",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区石神井台八丁目８番８号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "デイサービス金のまり",
+    "phone": "03-6766-8660"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.591537,
+     35.734371
+    ]
+   },
+   "properties": {
+    "name": "ゆっくりカフェテラス",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "石神井台",
+    "venue": "優っくり村石神井台沼辺",
+    "address": "東京都練馬区石神井台2-7-5",
+    "schedule": "不定期 13:30～15:30",
+    "fee": "200円",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区石神井台二丁目７番５号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "優っくりグループホーム石神井台沼辺（社会福祉法人奉優会）",
+    "phone": "03-5923-7117",
+    "email": "syakujii-grouphome@foryou.or.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609665,
+     35.746582
+    ]
+   },
+   "properties": {
+    "name": "ぎんなんの会",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "高野台",
+    "venue": "街かどケアカフェいちょう",
+    "address": "東京都練馬区高野台5-24-1",
+    "schedule": "第2火曜日 10:30～11:30",
+    "fee": "なし",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区高野台五丁目２４番",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "高野台西地域包括支援センター",
+    "phone": "03-6913-1515",
+    "email": "takanodainishi@anshin.or.jp"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596146,
+     35.750656
+    ]
+   },
+   "properties": {
+    "name": "虹のカフェ大泉",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "東大泉",
+    "venue": "大泉特別養護老人ホーム デイ食堂",
+    "address": "東京都練馬区東大泉2-11-21",
+    "schedule": "毎週水曜日 14:00～16:00（各月の最終週を除く）",
+    "fee": "100円",
+    "reservation": "不要",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区東大泉二丁目１１番２１号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "虹のカフェ大泉 実行委員会（大泉特別養護老人ホーム）",
+    "phone": "03-5387-2201"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.574173,
+     35.76474
+    ]
+   },
+   "properties": {
+    "name": "サンライズすまいる",
+    "category": "認知症カフェ",
+    "ward": "練馬区",
+    "district": "西大泉",
+    "venue": "サンライズ・サーカス",
+    "address": "東京都練馬区西大泉4-20-17",
+    "schedule": "第3月曜日 14:00～16:00",
+    "fee": "内容による",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都練馬区西大泉四丁目２０番１７号",
+    "source": "練馬区「認知症カフェ一覧」（Excel。ページの表記は令和8年10月版、表内は令和8年4月時点）",
+    "source_url": "https://www.city.nerima.tokyo.jp/hokenfukushi/koreisha/cafemap.html",
+    "contact_org": "特別養護老人ホームサンライズ大泉",
+    "phone": "03-5935-7401",
+    "email": "oizumiinfo@h-sunrise.com"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.831589,
+     35.744816
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ ほりきり",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "堀切",
+    "venue": "葛飾ロイヤルケアセンター（新葛飾ロイヤルクリニックとなり）",
+    "address": "東京都葛飾区堀切2-66-17",
+    "schedule": "毎月第3土曜日 14:00～15:00",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区堀切二丁目６６番１７号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター堀切",
+    "phone": "03-3697-7815"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.849152,
+     35.785263
+    ]
+   },
+   "properties": {
+    "name": "あやめカフェ",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "西水元",
+    "venue": "西水元あやめ園ロビー",
+    "address": "東京都葛飾区西水元2-2-8",
+    "schedule": "偶数月の第3月曜日 14:00～15:00",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区西水元二丁目２番８号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター水元",
+    "phone": "03-3826-2419"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.859665,
+     35.781506
+    ]
+   },
+   "properties": {
+    "name": "ぷらっと♫水元",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "水元",
+    "venue": "水元総合スポーツセンター",
+    "address": "東京都葛飾区水元1-23-1",
+    "schedule": "毎月第3水曜日 14:00～15:30",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区水元一丁目２３番",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター水元",
+    "phone": "03-3826-2419"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.866837,
+     35.764679
+    ]
+   },
+   "properties": {
+    "name": "カフェひだまり",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "金町",
+    "venue": "クッキングデイえんがわ（荒井ビル1階2号）",
+    "address": "東京都葛飾区金町5-1-16",
+    "schedule": "毎月第4月曜日 13:30～15:00",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区金町五丁目１番１６号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター新宿",
+    "phone": "03-3826-8726"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.843918,
+     35.73225
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ 人参",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "東四つ木",
+    "venue": "高齢者総合相談センター東四つ木",
+    "address": "東京都葛飾区東四つ木2-27-1",
+    "schedule": "毎月第1・3水曜日 14:00～15:00",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区東四つ木二丁目２７番１号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター東四つ木",
+    "phone": "03-5698-2204"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.860275,
+     35.761444
+    ]
+   },
+   "properties": {
+    "name": "カフェほほえみ",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "新宿",
+    "venue": "新宿地区センター 1階",
+    "address": "東京都葛飾区新宿4-1-10",
+    "schedule": "毎月第1火曜日 14:00～15:30",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区新宿四丁目１番１０号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター新宿",
+    "phone": "03-3826-8726"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.87912,
+     35.7775
+    ]
+   },
+   "properties": {
+    "name": "東金町よりみちカフェ",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "東金町",
+    "venue": "東金町地区センター 1階",
+    "address": "東京都葛飾区東金町5-33-6",
+    "schedule": "毎月第2金曜日 14:00～15:30",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区東金町五丁目３３番６号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター金町",
+    "phone": "03-3826-5031"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.862503,
+     35.732151
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ ねぎぼうず",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "奥戸",
+    "venue": "奥戸くつろぎの郷",
+    "address": "東京都葛飾区奥戸3-25-1",
+    "schedule": "毎月第2水曜日 13:30～14:30",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区奥戸三丁目２５番１号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター奥戸",
+    "phone": "03-5670-5212"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.858398,
+     35.72422
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ しんきた",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "東新小岩",
+    "venue": "新小岩北地区センター",
+    "address": "東京都葛飾区東新小岩6-21-1",
+    "schedule": "毎月第4火曜日 14:00～15:30",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区東新小岩六丁目２１番１号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター奥戸",
+    "phone": "03-5670-5212"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.854141,
+     35.750172
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ すこやか",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "青戸",
+    "venue": "青戸地区センター等",
+    "address": "東京都葛飾区青戸5-20-6",
+    "schedule": "毎月第2または第4金曜日 10:00～11:30",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区青戸五丁目２０番６号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター青戸",
+    "phone": "03-5629-5719"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.869598,
+     35.75206
+    ]
+   },
+   "properties": {
+    "name": "カフェハナミズキ高砂",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "高砂",
+    "venue": "高砂北町会会館 2階",
+    "address": "東京都葛飾区高砂5-47-5",
+    "schedule": "毎月第3火曜日 14:00～15:00",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区高砂五丁目４７番５号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター高砂",
+    "phone": "03-5889-8600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.870972,
+     35.757923
+    ]
+   },
+   "properties": {
+    "name": "カフェハナミズキ柴又",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "柴又",
+    "venue": "北野町会会館",
+    "address": "東京都葛飾区柴又1-29-3",
+    "schedule": "毎月第4金曜日 13:30～15:00",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区柴又一丁目２９番３号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター柴又",
+    "phone": "03-5876-9531"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.868668,
+     35.745899
+    ]
+   },
+   "properties": {
+    "name": "カフェハナミズキ",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "高砂",
+    "venue": "高砂地区センター",
+    "address": "東京都葛飾区高砂3-1-39",
+    "schedule": "毎月第2火曜日 14:00～15:00",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区高砂三丁目１番３９号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター高砂",
+    "phone": "03-5889-8600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.848404,
+     35.766182
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ かめあり",
+    "category": "認知症カフェ",
+    "ward": "葛飾区",
+    "district": "亀有",
+    "venue": "亀有地区センター（リリオ館7階）等",
+    "address": "東京都葛飾区亀有3-26-1",
+    "schedule": "毎月第4水曜日 14:00～15:30",
+    "fee": "お茶代が必要な場合あり",
+    "reservation": "記載なし（事前に各センターへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都葛飾区亀有三丁目２６番１号",
+    "source": "葛飾区「オレンジカフェ」ページのPDF（令和7年7月15日現在。区ページに掲載されている最新版）",
+    "source_url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1020350.html",
+    "contact_org": "高齢者総合相談センター亀有",
+    "phone": "03-6240-7630"
+   }
   }
  ]
 }
