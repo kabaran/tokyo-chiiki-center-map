@@ -2826,6 +2826,238 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     139.69725,
+     35.628864
+    ]
+   },
+   "properties": {
+    "name": "Dカフェ・プロムナード",
+    "category": "認知症カフェ",
+    "ward": "目黒区",
+    "district": "下目黒",
+    "venue": "特別養護老人ホーム「こぶしえん」1階レストラン",
+    "address": "東京都目黒区下目黒6-18-2",
+    "schedule": "毎月第4日曜日 15:00～17:00",
+    "fee": "300円（1回）",
+    "reservation": "記載なし（休止・会場変更があるため事前に確認）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都目黒区下目黒六丁目１８番２号",
+    "geocode_note": "会場の住所は、Dカフェのサイトの各ページ（画像）から読み取り。読み違いがありえます",
+    "source": "目黒区「認知症カフェ」ページ（開催日。2023年8月更新）と、運営のNPOのサイト「目黒区の認知症カフェ Dカフェ」（会場）",
+    "source_url": "https://www.city.meguro.tokyo.jp/fukushisougou/kenkoufukushi/koureisha/ninchisyocafe.html",
+    "contact_org": "NPO法人Dカフェまちづくりネットワーク",
+    "phone": "03-3719-5592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.692902,
+     35.631882
+    ]
+   },
+   "properties": {
+    "name": "Dカフェ・まちかど保健室",
+    "category": "認知症カフェ",
+    "ward": "目黒区",
+    "district": "中町",
+    "venue": "訪問看護ステーションSTORY",
+    "address": "東京都目黒区中町2-31-10",
+    "schedule": "毎月第4月曜日 12:00～13:00",
+    "fee": "300円（1回）",
+    "reservation": "記載なし（休止・会場変更があるため事前に確認）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都目黒区中町二丁目３１番１０号",
+    "geocode_note": "会場の住所は、Dカフェのサイトの各ページ（画像）から読み取り。読み違いがありえます",
+    "source": "目黒区「認知症カフェ」ページ（開催日。2023年8月更新）と、運営のNPOのサイト「目黒区の認知症カフェ Dカフェ」（会場）",
+    "source_url": "https://www.city.meguro.tokyo.jp/fukushisougou/kenkoufukushi/koureisha/ninchisyocafe.html",
+    "contact_org": "NPO法人Dカフェまちづくりネットワーク",
+    "phone": "03-3719-5592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.666214,
+     35.630951
+    ]
+   },
+   "properties": {
+    "name": "Dカフェ・ソナーレ",
+    "category": "認知症カフェ",
+    "ward": "目黒区",
+    "district": "東が丘",
+    "venue": "介護付き有料老人ホーム「ソナーレ駒沢公園」1階",
+    "address": "東京都目黒区東が丘1-35-22",
+    "schedule": "毎月第3土曜日 14:00～16:00",
+    "fee": "300円（1回）",
+    "reservation": "記載なし（休止・会場変更があるため事前に確認）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都目黒区東が丘一丁目３５番２２号",
+    "geocode_note": "会場の住所は、Dカフェのサイトの各ページ（画像）から読み取り。読み違いがありえます",
+    "source": "目黒区「認知症カフェ」ページ（開催日。2023年8月更新）と、運営のNPOのサイト「目黒区の認知症カフェ Dカフェ」（会場）",
+    "source_url": "https://www.city.meguro.tokyo.jp/fukushisougou/kenkoufukushi/koureisha/ninchisyocafe.html",
+    "contact_org": "NPO法人Dカフェまちづくりネットワーク",
+    "phone": "03-3719-5592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.697174,
+     35.625423
+    ]
+   },
+   "properties": {
+    "name": "Dカフェ・がーべら",
+    "category": "認知症カフェ",
+    "ward": "目黒区",
+    "district": "目黒本町",
+    "venue": "目黒本町の民家（NPOソシオキュアアンドケアサポートとの協働）",
+    "address": "東京都目黒区目黒本町1-6-11",
+    "schedule": "毎月第3木曜日 13:30～15:30",
+    "fee": "300円（1回）",
+    "reservation": "記載なし（休止・会場変更があるため事前に確認）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都目黒区目黒本町一丁目６番１１号",
+    "geocode_note": "会場の住所は、Dカフェのサイトの各ページ（画像）から読み取り。読み違いがありえます",
+    "source": "目黒区「認知症カフェ」ページ（開催日。2023年8月更新）と、運営のNPOのサイト「目黒区の認知症カフェ Dカフェ」（会場）",
+    "source_url": "https://www.city.meguro.tokyo.jp/fukushisougou/kenkoufukushi/koureisha/ninchisyocafe.html",
+    "contact_org": "NPO法人Dカフェまちづくりネットワーク",
+    "phone": "03-3719-5592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.704422,
+     35.627693
+    ]
+   },
+   "properties": {
+    "name": "Dカフェ・目黒不動",
+    "category": "認知症カフェ",
+    "ward": "目黒区",
+    "district": "下目黒",
+    "venue": "介護付き有料老人ホーム「ソナーレ目黒不動前」",
+    "address": "東京都目黒区下目黒5-10-16",
+    "schedule": "毎月第2木曜日 14:00～16:00",
+    "fee": "300円（1回）",
+    "reservation": "記載なし（休止・会場変更があるため事前に確認）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都目黒区下目黒五丁目１０番１６号",
+    "geocode_note": "会場の住所は、Dカフェのサイトの各ページ（画像）から読み取り。読み違いがありえます",
+    "source": "目黒区「認知症カフェ」ページ（開催日。2023年8月更新）と、運営のNPOのサイト「目黒区の認知症カフェ Dカフェ」（会場）",
+    "source_url": "https://www.city.meguro.tokyo.jp/fukushisougou/kenkoufukushi/koureisha/ninchisyocafe.html",
+    "contact_org": "NPO法人Dカフェまちづくりネットワーク",
+    "phone": "03-3719-5592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.667358,
+     35.61322
+    ]
+   },
+   "properties": {
+    "name": "Dカフェ・自由が丘",
+    "category": "認知症カフェ",
+    "ward": "目黒区",
+    "district": "自由が丘",
+    "venue": "オーナーズテラス自由が丘（多世代型シェアハウス）",
+    "address": "東京都目黒区自由が丘2-3-21",
+    "schedule": "毎月第3水曜日 14:00～16:00",
+    "fee": "300円（1回）",
+    "reservation": "記載なし（休止・会場変更があるため事前に確認）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都目黒区自由が丘二丁目３番２１号",
+    "geocode_note": "会場の住所は、Dカフェのサイトの各ページ（画像）から読み取り。読み違いがありえます",
+    "source": "目黒区「認知症カフェ」ページ（開催日。2023年8月更新）と、運営のNPOのサイト「目黒区の認知症カフェ Dカフェ」（会場）",
+    "source_url": "https://www.city.meguro.tokyo.jp/fukushisougou/kenkoufukushi/koureisha/ninchisyocafe.html",
+    "contact_org": "NPO法人Dカフェまちづくりネットワーク",
+    "phone": "03-3719-5592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.666763,
+     35.625114
+    ]
+   },
+   "properties": {
+    "name": "Dカフェ・東が丘",
+    "category": "認知症カフェ",
+    "ward": "目黒区",
+    "district": "東が丘",
+    "venue": "東京医療センター1階 会議室",
+    "address": "東京都目黒区東が丘2-5-1",
+    "schedule": "毎月第2水曜日 14:00～16:00",
+    "fee": "300円（1回）",
+    "reservation": "記載なし（休止・会場変更があるため事前に確認）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都目黒区東が丘二丁目５番１号",
+    "geocode_note": "会場の住所は、Dカフェのサイトの各ページ（画像）から読み取り。読み違いがありえます",
+    "source": "目黒区「認知症カフェ」ページ（開催日。2023年8月更新）と、運営のNPOのサイト「目黒区の認知症カフェ Dカフェ」（会場）",
+    "source_url": "https://www.city.meguro.tokyo.jp/fukushisougou/kenkoufukushi/koureisha/ninchisyocafe.html",
+    "contact_org": "NPO法人Dカフェまちづくりネットワーク",
+    "phone": "03-3719-5592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.685287,
+     35.641602
+    ]
+   },
+   "properties": {
+    "name": "Dカフェ・せらぴあ",
+    "category": "認知症カフェ",
+    "ward": "目黒区",
+    "district": "上目黒",
+    "venue": "三宿病院 3階 講義室",
+    "address": "東京都目黒区上目黒5-33-12",
+    "schedule": "毎月第2金曜日 14:00～16:00",
+    "fee": "300円（1回）",
+    "reservation": "記載なし（休止・会場変更があるため事前に確認）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都目黒区上目黒五丁目３３番１２号",
+    "geocode_note": "会場の住所は、Dカフェのサイトの各ページ（画像）から読み取り。読み違いがありえます",
+    "source": "目黒区「認知症カフェ」ページ（開催日。2023年8月更新）と、運営のNPOのサイト「目黒区の認知症カフェ Dカフェ」（会場）",
+    "source_url": "https://www.city.meguro.tokyo.jp/fukushisougou/kenkoufukushi/koureisha/ninchisyocafe.html",
+    "contact_org": "NPO法人Dカフェまちづくりネットワーク",
+    "phone": "03-3719-5592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      139.70459,
      35.662029
     ]
