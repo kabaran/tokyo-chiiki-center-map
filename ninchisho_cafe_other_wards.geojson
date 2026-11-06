@@ -8678,6 +8678,1369 @@
     "contact_org": "高齢者総合相談センター亀有",
     "phone": "03-6240-7630"
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.803101,
+     35.775284
+    ]
+   },
+   "properties": {
+    "name": "基幹ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "梅島",
+    "venue": "地域包括支援センター（ホウカツ）基幹（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区梅島2-1-20",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区梅島二丁目１番２０号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：梅島、中央本町一丁目、島根",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）基幹",
+    "phone": "03-5681-3373"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.805389,
+     35.767414
+    ]
+   },
+   "properties": {
+    "name": "あだちホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "足立",
+    "venue": "地域包括支援センター（ホウカツ）あだち（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区足立4-13-22",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区足立四丁目１３番２２号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：足立、中央本町二丁目、梅田一丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）あだち",
+    "phone": "03-3880-8155"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.783585,
+     35.791805
+    ]
+   },
+   "properties": {
+    "name": "伊興ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "伊興",
+    "venue": "地域包括支援センター（ホウカツ）伊興（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区伊興3-7-4",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区伊興三丁目７番４号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：伊興、東伊興、伊興本町、西伊興、西竹の塚",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）伊興",
+    "phone": "03-5837-1280"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.75563,
+     35.808254
+    ]
+   },
+   "properties": {
+    "name": "入谷ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "入谷",
+    "venue": "地域包括支援センター（ホウカツ）入谷（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区入谷9-15-18",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区入谷九丁目１５番１８号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：入谷、舎人、古千谷、古千谷本町",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）入谷",
+    "phone": "03-3855-6362"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.801392,
+     35.765957
+    ]
+   },
+   "properties": {
+    "name": "梅田ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "梅田二丁目から八丁目",
+    "venue": "地域包括支援センター（ホウカツ）梅田（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区梅田2-15-12",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区梅田二丁目１５番１２号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：梅田二丁目から八丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）梅田",
+    "phone": "03-3889-1487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.780762,
+     35.769539
+    ]
+   },
+   "properties": {
+    "name": "扇ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "扇",
+    "venue": "地域包括支援センター（ホウカツ）扇（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区興野2-22-27",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区興野二丁目２２番２７号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：扇、興野、本木東町、本木西町、本木南町、本木北町",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）扇",
+    "phone": "03-6692-7771"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.76535,
+     35.776733
+    ]
+   },
+   "properties": {
+    "name": "江北ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "江北",
+    "venue": "地域包括支援センター（ホウカツ）江北（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区江北5-14-5",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区江北五丁目１４番５号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：江北、堀之内",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）江北",
+    "phone": "03-6807-1604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.836502,
+     35.788597
+    ]
+   },
+   "properties": {
+    "name": "さのホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "加平",
+    "venue": "地域包括支援センター（ホウカツ）さの（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区佐野2-30-12",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区佐野二丁目３０番１２号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：加平、北加平町、神明、神明南、辰沼、六木、佐野、大谷田二丁目から五丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）さの",
+    "phone": "03-5682-0157"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.767792,
+     35.790546
+    ]
+   },
+   "properties": {
+    "name": "鹿浜ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "鹿浜",
+    "venue": "地域包括支援センター（ホウカツ）鹿浜（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区皿沼2-8-8",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区皿沼二丁目８番８号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：鹿浜、加賀、皿沼、谷在家、椿",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）鹿浜",
+    "phone": "03-5838-0825"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.743561,
+     35.770275
+    ]
+   },
+   "properties": {
+    "name": "新田ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "新田",
+    "venue": "地域包括支援センター（ホウカツ）新田（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区新田3-4-10",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区新田三丁目４番１０号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：新田、宮城、小台",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）新田",
+    "phone": "03-3927-7288"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.797623,
+     35.748947
+    ]
+   },
+   "properties": {
+    "name": "千住西ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "千住桜木",
+    "venue": "地域包括支援センター（ホウカツ）千住西（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区千住中居町10番10号",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区千住中居町１０番１０号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：千住桜木、千住緑町、千住龍田町、千住中居町、千住宮元町、千住仲町、千住河原町、千住橋戸町",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）千住西",
+    "phone": "03-5244-0248"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8125,
+     35.746178
+    ]
+   },
+   "properties": {
+    "name": "千寿の郷ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "柳原",
+    "venue": "地域包括支援センター（ホウカツ）千寿の郷（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区柳原1-25-15",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区柳原一丁目２５番１５号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：柳原、千住関屋町、千住曙町、千住東一丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）千寿の郷",
+    "phone": "03-3881-1691"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.802155,
+     35.756485
+    ]
+   },
+   "properties": {
+    "name": "千住本町ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "千住",
+    "venue": "地域包括支援センター（ホウカツ）千住本町（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区千住5-13-5",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区千住五丁目１３番５号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：千住、千住元町、千住大川町、千住寿町、千住柳町",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）千住本町",
+    "phone": "03-3888-1510"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.808807,
+     35.776428
+    ]
+   },
+   "properties": {
+    "name": "中央本町ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "中央本町三丁目から五丁目",
+    "venue": "地域包括支援センター（ホウカツ）中央本町（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区中央本町4-14-20",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区中央本町四丁目１４番２０号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：中央本町三丁目から五丁目、青井一丁目と三丁目から六丁目、西加平",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）中央本町",
+    "phone": "03-3852-0006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.843887,
+     35.772362
+    ]
+   },
+   "properties": {
+    "name": "東和ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "綾瀬",
+    "venue": "地域包括支援センター（ホウカツ）東和（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区東和4-7-23",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区東和四丁目７番２３号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：綾瀬、東綾瀬、谷中、東和一丁目と三丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）東和",
+    "phone": "03-5613-1200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.846039,
+     35.76965
+    ]
+   },
+   "properties": {
+    "name": "中川ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "東和二丁目と四丁目と五丁目",
+    "venue": "地域包括支援センター（ホウカツ）中川（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区中川4-2-14",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区中川四丁目２番１４号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：東和二丁目と四丁目と五丁目、中川、大谷田一丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）中川",
+    "phone": "03-3605-4985"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.815674,
+     35.761604
+    ]
+   },
+   "properties": {
+    "name": "西綾瀬ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "西綾瀬",
+    "venue": "地域包括支援センター（ホウカツ）西綾瀬（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区西綾瀬3-2-1",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区西綾瀬三丁目２番",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：西綾瀬、弘道、青井二丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）西綾瀬",
+    "phone": "03-5681-7650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.779633,
+     35.783394
+    ]
+   },
+   "properties": {
+    "name": "西新井ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "西新井",
+    "venue": "地域包括支援センター（ホウカツ）西新井（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区西新井2-5-5",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区西新井二丁目５番",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：西新井、栗原",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）西新井",
+    "phone": "03-3898-8391"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.77298,
+     35.774811
+    ]
+   },
+   "properties": {
+    "name": "西新井本町ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "西新井本町",
+    "venue": "地域包括支援センター（ホウカツ）西新井本町（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区西新井本町2-23-1",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区西新井本町二丁目２３番１号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：西新井本町、西新井栄町",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）西新井本町",
+    "phone": "03-3856-6511"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.809906,
+     35.806515
+    ]
+   },
+   "properties": {
+    "name": "はなはたホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "花畑",
+    "venue": "地域包括支援センター（ホウカツ）はなはた（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区花畑4-39-11",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区花畑四丁目３９番１１号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：花畑、南花畑五丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）はなはた",
+    "phone": "03-3883-0048"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.816345,
+     35.779221
+    ]
+   },
+   "properties": {
+    "name": "一ツ家ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "平野",
+    "venue": "地域包括支援センター（ホウカツ）一ツ家（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区一ツ家4-2-15",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区一ツ家四丁目２番１５号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：平野、一ツ家、保塚町、六町、南花畑一丁目から四丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）一ツ家",
+    "phone": "03-3850-0300"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.808121,
+     35.752003
+    ]
+   },
+   "properties": {
+    "name": "日の出ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "日ノ出町",
+    "venue": "地域包括支援センター（ホウカツ）日の出（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区日ノ出町27-4-112",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区日ノ出町２７番",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：日ノ出町、千住旭町、千住東二丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）日の出",
+    "phone": "03-3870-1184"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.804672,
+     35.804691
+    ]
+   },
+   "properties": {
+    "name": "保木間ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "西保木間",
+    "venue": "地域包括支援センター（ホウカツ）保木間（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区保木間5-23-20",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区保木間五丁目２３番２０号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：西保木間、保木間、東保木間",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）保木間",
+    "phone": "03-3859-3965"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.786835,
+     35.761612
+    ]
+   },
+   "properties": {
+    "name": "本木関原ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "関原",
+    "venue": "地域包括支援センター（ホウカツ）本木関原（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区本木1-4-10",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区本木一丁目４番１０号",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：関原、本木一丁目から二丁目",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）本木関原",
+    "phone": "03-5845-3330"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.800369,
+     35.785553
+    ]
+   },
+   "properties": {
+    "name": "六月ホウカツの認知症カフェ（会場・日程は問い合わせ）",
+    "category": "認知症カフェ（会場・日程は未確認）",
+    "ward": "足立区",
+    "district": "六月",
+    "venue": "地域包括支援センター（ホウカツ）六月（会場は未確認。位置はセンターの所在地）",
+    "address": "東京都足立区六月1-6-1",
+    "schedule": "毎月開催（区の案内）。日程・会場は区の資料にないため、センターに問い合わせ",
+    "fee": "記載なし",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都足立区六月一丁目６番",
+    "geocode_note": "区は「認知症カフェは地域包括支援センターで毎月開催」と案内していますが、会場・日程の一覧はありません。位置は、このセンターの所在地です（会場とは限りません）。担当地域：六月、東六月町、竹の塚",
+    "source": "足立区「知って安心認知症」「地域包括支援センター（ホウカツ）をさがす」（令和8年4月1日現在のセンター一覧）",
+    "source_url": "https://www.city.adachi.tokyo.jp/care-s/fukushi-kenko/koresha/houkatu-itiran.html",
+    "contact_org": "足立区地域包括支援センター（ホウカツ）六月",
+    "phone": "03-5242-0302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8809833,
+     35.68245
+    ]
+   },
+   "properties": {
+    "name": "きららオレンジ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "西瑞江",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区西瑞江五丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第3土曜日 14:00～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（西瑞江五丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.86809142561984,
+     35.681234270134226
+    ]
+   },
+   "properties": {
+    "name": "船堀カフェやかた",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "船堀",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区船堀六丁目付近（番地は区の地図に記載なし）",
+    "schedule": "奇数月第3木曜日 14:00～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（船堀六丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8704583,
+     35.67465
+    ]
+   },
+   "properties": {
+    "name": "まどかカフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "江戸川",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区江戸川六丁目付近（番地は区の地図に記載なし）",
+    "schedule": "偶数月第4木曜日 13:30～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（江戸川六丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8684,
+     35.6842667
+    ]
+   },
+   "properties": {
+    "name": "船堀オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "船堀",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区船堀四丁目付近（番地は区の地図に記載なし）",
+    "schedule": "奇数月第3日曜日 13:30～15:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（船堀四丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.88513688016525,
+     35.67785234899329
+    ]
+   },
+   "properties": {
+    "name": "お話カフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "江戸川",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区江戸川五丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎週火曜日 14:00～15:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（江戸川五丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8775333,
+     35.690625
+    ]
+   },
+   "properties": {
+    "name": "気まぐれオレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "一之江",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区一之江六丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第3木曜日 14:00～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（一之江六丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8831417,
+     35.689725
+    ]
+   },
+   "properties": {
+    "name": "一之江オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "一之江",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区一之江三丁目付近（番地は区の地図に記載なし）",
+    "schedule": "隔月第4木曜日 13:30～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（一之江三丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.877275,
+     35.6923889
+    ]
+   },
+   "properties": {
+    "name": "清心苑オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "西一之江",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区西一之江三丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第2水曜日 14:00～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（西一之江三丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8657111,
+     35.6683472
+    ]
+   },
+   "properties": {
+    "name": "暖心苑オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "西葛西",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区西葛西四丁目付近（番地は区の地図に記載なし）",
+    "schedule": "偶数月第4木曜日 13:00～15:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（西葛西四丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8766722,
+     35.7005778
+    ]
+   },
+   "properties": {
+    "name": "ニコニコカフェ なごみの家松江北店",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "西一之江",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区西一之江一丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第3木曜日 10:00～11:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（西一之江一丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8818,
+     35.6600056
+    ]
+   },
+   "properties": {
+    "name": "お茶処 やびなよ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "東葛西",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区東葛西四丁目付近（番地は区の地図に記載なし）",
+    "schedule": "奇数月(曜日不定)14:00～16:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（東葛西四丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8971972,
+     35.6962333
+    ]
+   },
+   "properties": {
+    "name": "瑞江オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "瑞江",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区瑞江二丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第2土曜日 13:00～15:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（瑞江二丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.90628228305783,
+     35.683895239093964
+    ]
+   },
+   "properties": {
+    "name": "喫茶ほのぼの",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "江戸川",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区江戸川二丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第3土曜日 14:00～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（江戸川二丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8628333,
+     35.6518611
+    ]
+   },
+   "properties": {
+    "name": "あしたばカフェ(若年性認知症カフェ)",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "臨海町",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区臨海町二丁目付近（番地は区の地図に記載なし）",
+    "schedule": "偶数月第3日曜日 13:30～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（臨海町二丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.9038028,
+     35.705825
+    ]
+   },
+   "properties": {
+    "name": "「お休み処」無料休憩所（区の地図の「オレンジカフェ」に登録）",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "篠崎町",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区篠崎町七丁目付近（番地は区の地図に記載なし）",
+    "schedule": "問合せにご確認ください",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（篠崎町七丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8818583,
+     35.6432167
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ「福はうち」",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "舞浜",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区舞浜二丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第4木曜日 13:00～15:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（舞浜二丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8952972,
+     35.7136583
+    ]
+   },
+   "properties": {
+    "name": "みんなの集まるカフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "西篠崎",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区西篠崎一丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第3土曜日 13:30～15:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（西篠崎一丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8385139,
+     35.7109389
+    ]
+   },
+   "properties": {
+    "name": "ウエル江戸川オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "立花",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区立花六丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第4水曜日 14:00～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（立花六丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8845167,
+     35.7270444
+    ]
+   },
+   "properties": {
+    "name": "来い輪オレンジスペース",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "南小岩",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区南小岩七丁目付近（番地は区の地図に記載なし）",
+    "schedule": "奇数月第3金曜日 14:00～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（南小岩七丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8912611,
+     35.7265417
+    ]
+   },
+   "properties": {
+    "name": "ほほえみの会",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "東小岩",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区東小岩四丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月最終火曜日 13:00～15:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（東小岩四丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8834583,
+     35.7307528
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェゆい",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "南小岩",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区南小岩七丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第3月曜日 14:00～16:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（南小岩七丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8948028,
+     35.7295833
+    ]
+   },
+   "properties": {
+    "name": "カフェ泰山らんど",
+    "category": "認知症カフェ",
+    "ward": "江戸川区",
+    "district": "東小岩",
+    "venue": "（会場名は区の地図に記載なし）",
+    "address": "東京都江戸川区東小岩三丁目付近（番地は区の地図に記載なし）",
+    "schedule": "毎月第1木曜日午前中",
+    "fee": "記載なし",
+    "reservation": "記載なし（詳しくは熟年相談室へ）",
+    "paused": false,
+    "geocode": "地図サイト由来の座標（未確認）",
+    "geocode_match": "えどがわマップの座標（東小岩三丁目）",
+    "geocode_note": "会場名・番地・電話は区の地図にありません。位置は区の地図の点で、現地では確認していません",
+    "source": "江戸川区「えどがわマップ（認知症応援マップ）」のオレンジカフェ（区のページが案内する地図サイト）",
+    "source_url": "https://www.city.edogawa.tokyo.jp/e040/kenko/fukushikaigo/jukunen/konko/ninchishou.html",
+    "contact_org": "江戸川区の熟年相談室（区のページの案内。電話番号は区の地図に記載なし）",
+    "phone": ""
+   }
   }
  ]
 }
