@@ -488,6 +488,296 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     139.793381,
+     35.71899
+    ]
+   },
+   "properties": {
+    "name": "まちかどカフェあさくさ",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "浅草",
+    "venue": "あさくさ地域交流スペース（特別養護老人ホーム浅草）",
+    "address": "東京都台東区浅草4-26-2",
+    "schedule": "年3回程度（6月・10月・2月）",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区浅草四丁目２６番２号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "あさくさ地域包括支援センター",
+    "phone": "03-3873-8088"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.766556,
+     35.725555
+    ]
+   },
+   "properties": {
+    "name": "カフェやなか",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "谷中",
+    "venue": "谷中区民館",
+    "address": "東京都台東区谷中5-6-5",
+    "schedule": "偶数月に1回程度",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区谷中五丁目６番５号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "やなか地域包括支援センター",
+    "phone": "03-3822-1556"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.792999,
+     35.722477
+    ]
+   },
+   "properties": {
+    "name": "喫茶YOU",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "千束",
+    "venue": "台東病院 等",
+    "address": "東京都台東区千束3-20-5",
+    "schedule": "奇数月の第3土曜日（原則）",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区千束三丁目２０番５号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "りゅうせん地域包括支援センター／あさくさ地域包括支援センター",
+    "phone": "03-6458-1507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.792999,
+     35.722477
+    ]
+   },
+   "properties": {
+    "name": "喫茶YOU（よりそいサロン）",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "千束",
+    "venue": "台東病院",
+    "address": "東京都台東区千束3-20-5",
+    "schedule": "偶数月の第1金曜日（原則）",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区千束三丁目２０番５号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "りゅうせん地域包括支援センター／あさくさ地域包括支援センター",
+    "phone": "03-6458-1507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.789474,
+     35.725651
+    ]
+   },
+   "properties": {
+    "name": "りゅうせんカフェ",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "竜泉",
+    "venue": "特別養護老人ホーム竜泉 1階 地域交流スペース",
+    "address": "東京都台東区竜泉2-10-8",
+    "schedule": "偶数月の第3金曜日（原則）",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区竜泉二丁目１０番８号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "りゅうせん地域包括支援センター",
+    "phone": "03-6458-1507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.792633,
+     35.703606
+    ]
+   },
+   "properties": {
+    "name": "くらまえカフェ",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "蔵前",
+    "venue": "くらまえ地域包括支援センター",
+    "address": "東京都台東区蔵前2-11-3",
+    "schedule": "毎月第3水曜日（原則）",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区蔵前二丁目１１番３号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "くらまえ地域包括支援センター",
+    "phone": "03-3862-2175"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.787476,
+     35.717503
+    ]
+   },
+   "properties": {
+    "name": "ほっとルーム",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "松が谷",
+    "venue": "ケアハウス松が谷",
+    "address": "東京都台東区松が谷4-4-3",
+    "schedule": "奇数月に1回程度",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区松が谷四丁目４番３号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "まつがや地域包括支援センター",
+    "phone": "03-3845-6505"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.777618,
+     35.701527
+    ]
+   },
+   "properties": {
+    "name": "カフェTAITO",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "台東",
+    "venue": "たいとう地域包括支援センター",
+    "address": "東京都台東区台東1-25-5",
+    "schedule": "奇数月に1回程度",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区台東一丁目２５番５号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "たいとう地域包括支援センター",
+    "phone": "03-5846-4510"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.803024,
+     35.725803
+    ]
+   },
+   "properties": {
+    "name": "あさがおカフェ",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "清川",
+    "venue": "清川区民館 等",
+    "address": "東京都台東区清川1-23-8",
+    "schedule": "奇数月に1回程度",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区清川一丁目２３番８号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "ほうらい地域包括支援センター",
+    "phone": "03-5824-5626"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.779678,
+     35.709957
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ（永寿総合病院）",
+    "category": "認知症カフェ",
+    "ward": "台東区",
+    "district": "東上野",
+    "venue": "永寿総合病院 等",
+    "address": "東京都台東区東上野2-23-16",
+    "schedule": "年9回（1～2か月に1回）",
+    "fee": "実費負担（お茶代など）の場合あり",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都台東区東上野二丁目２３番１６号",
+    "geocode_note": "区のページに会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "台東区「認知症カフェに参加しませんか」ページ（台東区認知症カフェ一覧）",
+    "source_url": "https://www.city.taito.lg.jp/kenkohukusi/korei/serviceannai/carepathway/ninchishoucafe.html",
+    "contact_org": "永寿総合病院 認知症疾患医療センター",
+    "phone": "03-3833-8381"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      139.798676,
      35.703304
     ]
@@ -2301,6 +2591,673 @@
     "source_url": "https://setagaya-ninsapo.jp/partners/005507.html",
     "contact_org": "実家なんとかし隊（連絡先は個人の携帯のため掲載せず）",
     "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.730026,
+     35.576942
+    ]
+   },
+   "properties": {
+    "name": "こらぼでオレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "大森西",
+    "venue": "大森西特別出張所 1階 大会議室（大森西地域力推進センター）",
+    "address": "東京都大田区大森西2-16-2",
+    "schedule": "毎月第2水曜日 14:00～15:00",
+    "fee": "無料",
+    "reservation": "事前予約制",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区大森西二丁目１６番２号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター大森",
+    "phone": "03-5753-6331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.733994,
+     35.573021
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ in デニーズ大森中店",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "大森中",
+    "venue": "デニーズ大森中店",
+    "address": "東京都大田区大森中1-1-3",
+    "schedule": "毎月第3木曜日 15:00～16:30",
+    "fee": "ドリンクバーまたは1品注文",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区大森中一丁目１番３号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター平和島",
+    "phone": "03-5767-1875"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.72789,
+     35.584175
+    ]
+   },
+   "properties": {
+    "name": "入新井オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "大森北",
+    "venue": "シニアステーション入新井 活動室2",
+    "address": "東京都大田区大森北4-6-7",
+    "schedule": "毎月第2水曜日 14:00～15:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区大森北四丁目６番７号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター入新井",
+    "phone": "03-3762-4689"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.704666,
+     35.594921
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ馬込",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "中馬込",
+    "venue": "シニアステーション馬込",
+    "address": "東京都大田区中馬込1-19-1",
+    "schedule": "毎月第4木曜日 10:00～11:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区中馬込一丁目１９番１号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター馬込",
+    "phone": "03-5709-8011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.719589,
+     35.586266
+    ]
+   },
+   "properties": {
+    "name": "オレンジCAFE南馬込「みんなの広場」",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "南馬込",
+    "venue": "シニアステーション南馬込",
+    "address": "東京都大田区南馬込3-13-12",
+    "schedule": "毎月第4金曜日 15:00～16:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区南馬込三丁目１３番１２号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター南馬込",
+    "phone": "03-6429-7651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.714005,
+     35.576424
+    ]
+   },
+   "properties": {
+    "name": "おれんじカフェ とくもち（デニーズ池上通り店）",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "中央",
+    "venue": "デニーズ池上通り店",
+    "address": "東京都大田区中央7-3-3",
+    "schedule": "毎月第3水曜日 15:00～16:30",
+    "fee": "ドリンクバーまたは1品注文",
+    "reservation": "事前予約制",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区中央七丁目３番３号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター徳持",
+    "phone": "03-5748-7202"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.719772,
+     35.579571
+    ]
+   },
+   "properties": {
+    "name": "オレンジ茶房「縁」",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "中央",
+    "venue": "新井宿特別出張所",
+    "address": "東京都大田区中央1-21-6",
+    "schedule": "毎月第4水曜日 14:00～15:30",
+    "fee": "200円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区中央一丁目２１番６号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター新井宿（大森医師会）",
+    "phone": "03-3772-2415"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.671402,
+     35.588081
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェでんえん",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "田園調布",
+    "venue": "田園調布特別出張所 2階 大会議室",
+    "address": "東京都大田区田園調布1-30-1",
+    "schedule": "毎月第2火曜日 13:30～14:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区田園調布一丁目３０番１号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター田園調布",
+    "phone": "03-3721-1572"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.691452,
+     35.573193
+    ]
+   },
+   "properties": {
+    "name": "千鳥のえんがわ",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "千鳥",
+    "venue": "千鳥町会館",
+    "address": "東京都大田区千鳥1-3-19",
+    "schedule": "毎月第1金曜日 14:00～16:00（1月のみ休会）",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区千鳥一丁目３番１９号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センターたまがわ",
+    "phone": "03-5732-1026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.679398,
+     35.571056
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ「つなが～る」（特養たまがわ）",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "下丸子",
+    "venue": "特別養護老人ホームたまがわ 会議室",
+    "address": "東京都大田区下丸子4-23-1",
+    "schedule": "毎月第2水曜日 14:00～15:30",
+    "fee": "200円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区下丸子四丁目２３番",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センターたまがわ",
+    "phone": "03-5732-1026"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.694153,
+     35.580509
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ「つなが～る」（久が原）",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "久が原",
+    "venue": "久が原特別出張所 集会室",
+    "address": "東京都大田区久が原4-12-10",
+    "schedule": "原則毎月第1金曜日 14:30～15:45（内容・会場の都合で変更あり）",
+    "fee": "200円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区久が原四丁目１２番１０号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター久が原",
+    "phone": "03-5700-5861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.691025,
+     35.594883
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ上池台 和の輪",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "東雪谷",
+    "venue": "雪谷特別出張所 3階 集会室",
+    "address": "東京都大田区東雪谷3-6-2",
+    "schedule": "毎月第3火曜日 14:00～15:00（会場の都合で変更あり）",
+    "fee": "無料",
+    "reservation": "事前予約制",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区東雪谷三丁目６番２号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター上池台",
+    "phone": "03-3748-6138"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.685501,
+     35.60923
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ千束",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "北千束",
+    "venue": "大岡山北口商店街事務所",
+    "address": "東京都大田区北千束1-52-5",
+    "schedule": "毎月第3木曜日 14:00～15:00",
+    "fee": "100円",
+    "reservation": "事前予約制",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区北千束一丁目５２番５号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター千束（田園調布医師会）",
+    "phone": "03-3728-6673"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.716507,
+     35.550697
+    ]
+   },
+   "properties": {
+    "name": "笑顔の会",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "仲六郷",
+    "venue": "六郷地域力推進センター 多目的室",
+    "address": "東京都大田区仲六郷2-44-11",
+    "schedule": "毎月第4火曜日 10:00～11:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区仲六郷二丁目４４番１１号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター六郷",
+    "phone": "03-5744-7770"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.688156,
+     35.565636
+    ]
+   },
+   "properties": {
+    "name": "ハタチの会",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "下丸子",
+    "venue": "下丸子図書館",
+    "address": "東京都大田区下丸子2-18-11",
+    "schedule": "毎月第1木曜日 10:00～12:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区下丸子二丁目１８番１１号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センターやぐち",
+    "phone": "03-5741-3388"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.691666,
+     35.56609
+    ]
+   },
+   "properties": {
+    "name": "ふらっと、ぴあっと、くすっとの会（本人ミーティング）",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "矢口",
+    "venue": "矢口文化会館",
+    "address": "東京都大田区矢口1-21-22",
+    "schedule": "毎月第1火曜日 10:00～11:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区矢口一丁目２１番２２号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センターやぐち",
+    "phone": "03-5741-3388"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.713791,
+     35.564312
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ（西蒲田）",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "西蒲田",
+    "venue": "ローソンホーム薬局西蒲田店",
+    "address": "東京都大田区西蒲田5-27-14",
+    "schedule": "毎月第4水曜日 13:30～15:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区西蒲田五丁目２７番１４号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター西蒲田",
+    "phone": "03-5480-2502"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.728561,
+     35.559223
+    ]
+   },
+   "properties": {
+    "name": "いちごいち会",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "西糀谷",
+    "venue": "特別養護老人ホーム誠心園",
+    "address": "東京都大田区西糀谷1-1-12",
+    "schedule": "毎月第1月曜日 10:00～11:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区西糀谷一丁目１番１２号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター蒲田東",
+    "phone": "03-5714-0888"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.723892,
+     35.554638
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ（蒲田東・東京蒲田医療センター）",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "南蒲田",
+    "venue": "東京蒲田医療センター",
+    "address": "東京都大田区南蒲田2-19-2",
+    "schedule": "毎月第2水曜日 14:00～15:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区南蒲田二丁目１９番２号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター蒲田東",
+    "phone": "03-5714-0888"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.745743,
+     35.567017
+    ]
+   },
+   "properties": {
+    "name": "喫茶 ひなたぼっこ",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "大森南",
+    "venue": "大森東特別出張所内 2階 大会議室",
+    "address": "東京都大田区大森南4-9-1",
+    "schedule": "毎月第4水曜日 10:15～11:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区大森南四丁目９番１号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター大森東",
+    "phone": "03-6423-8300"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.736252,
+     35.558922
+    ]
+   },
+   "properties": {
+    "name": "新オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "西糀谷",
+    "venue": "糀谷文化センター",
+    "address": "東京都大田区西糀谷2-14",
+    "schedule": "毎月第3火曜日 14:00～15:00",
+    "fee": "無料",
+    "reservation": "事前予約制",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区西糀谷二丁目１４番",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター糀谷",
+    "phone": "03-3741-8861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.739777,
+     35.554848
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ（サミット大田大鳥居店）",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "東糀谷",
+    "venue": "サミットストア大田大鳥居店 地下1階",
+    "address": "東京都大田区東糀谷2-12-22",
+    "schedule": "毎月1回 10:00～11:30（開催日は最新のチラシで確認）",
+    "fee": "無料",
+    "reservation": "事前予約制",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区東糀谷二丁目１２番２２号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター糀谷",
+    "phone": "03-3741-8861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.742371,
+     35.549091
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ「つながーる」（羽田）",
+    "category": "認知症カフェ",
+    "ward": "大田区",
+    "district": "羽田",
+    "venue": "羽田地域力推進センター 2階 活動室2（シニアステーション羽田）",
+    "address": "東京都大田区羽田1-18-13",
+    "schedule": "毎月第1木曜日 10:30～11:30（休日の場合は休み）",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都大田区羽田一丁目１８番１３号",
+    "geocode_note": "区の一覧に会場の住所がないため、区の施設ページ・民間の施設情報から住所を調べて推定",
+    "source": "大田区「認知症カフェ（オレンジカフェ）一覧」PDF（令和8年4月現在）",
+    "source_url": "https://www.city.ota.tokyo.jp/seikatsu/fukushi/kourei/nintisyou/nintisyoucafe.html",
+    "contact_org": "地域包括支援センター羽田",
+    "phone": "03-3745-7855"
    }
   },
   {
