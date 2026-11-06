@@ -229,7 +229,9 @@ function cafeMsg() {
     msg.textContent = n ? curWard + '：' + n + '件' : curWard + 'の認知症カフェは、まだ地図にありません';
   } else {
     const k = all.filter(f => f.properties.paused).length;
-    msg.textContent = all.length + '件' + (k ? '（休止中' + k + '件は白抜き）' : '') + '　対応：' + covered.map(w => w.replace('区', '')).join('・') + '区のみ';
+    const u = all.filter(f => /未確認/.test(f.properties.category || '')).length;
+    const scope = covered.length >= 23 ? '全23区' : covered.map(w => w.replace('区', '')).join('・') + '区のみ';
+    msg.textContent = all.length + '件' + (k ? '（休止中' + k + '件は白抜き）' : '') + (u ? '（薄い色' + u + '件は会場・日程が未確認）' : '') + '　対応：' + scope;
   }
 }
 function refreshCafe() {
