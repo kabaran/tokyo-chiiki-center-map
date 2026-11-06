@@ -714,6 +714,267 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     139.826645,
+     35.703285
+    ]
+   },
+   "properties": {
+    "name": "ふくろうカフェ",
+    "category": "認知症カフェ",
+    "ward": "江東区",
+    "district": "亀戸",
+    "venue": "Ako Café",
+    "address": "東京都江東区亀戸4-25-1",
+    "schedule": "奇数月の第2火曜日 11:00～15:00",
+    "fee": "200円（飲み物）",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都江東区亀戸四丁目２５番１号",
+    "geocode_note": "一覧はPDF（地図）を画像で確認して読み取り",
+    "source": "江東区「認知症カフェ」ページの認知症カフェ紹介（令和8年10月現在・PDF）と運営日程表",
+    "source_url": "https://www.city.koto.lg.jp/211502/fukushi/koresha/ninchi/87326.html",
+    "contact_org": "ふくろうカフェ（Ako Café）",
+    "phone": "03-3636-3099"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.834183,
+     35.697281
+    ]
+   },
+   "properties": {
+    "name": "ひまわり遊ゆうカフェ",
+    "category": "認知症カフェ",
+    "ward": "江東区",
+    "district": "亀戸",
+    "venue": "ひらの亀戸ひまわり診療所（Zビル4階）",
+    "address": "東京都江東区亀戸7-10-1",
+    "schedule": "毎月第4土曜日 14:00～16:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都江東区亀戸七丁目１０番１号",
+    "geocode_note": "一覧はPDF（地図）を画像で確認して読み取り",
+    "source": "江東区「認知症カフェ」ページの認知症カフェ紹介（令和8年10月現在・PDF）と運営日程表",
+    "source_url": "https://www.city.koto.lg.jp/211502/fukushi/koresha/ninchi/87326.html",
+    "contact_org": "ひらの亀戸ひまわり診療所",
+    "phone": "03-5609-1823"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.833359,
+     35.688824
+    ]
+   },
+   "properties": {
+    "name": "井戸端カフェ しゃべり場",
+    "category": "認知症カフェ",
+    "ward": "江東区",
+    "district": "大島",
+    "venue": "大島中央地区集会所",
+    "address": "東京都江東区大島5-12-14",
+    "schedule": "毎月最終木曜日 13:00～15:00（8～12月は休止とされる）",
+    "fee": "記載なし",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都江東区大島五丁目１２番１４号",
+    "geocode_note": "一覧はPDF（地図）を画像で確認して読み取り",
+    "source": "江東区「認知症カフェ」ページの認知症カフェ紹介（令和8年10月現在・PDF）と運営日程表",
+    "source_url": "https://www.city.koto.lg.jp/211502/fukushi/koresha/ninchi/87326.html",
+    "contact_org": "関東シニアライフアドバイザー協会 江東部会（連絡先は個人の携帯のため掲載せず。出典で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.829117,
+     35.687229
+    ]
+   },
+   "properties": {
+    "name": "誰でもカフェ",
+    "category": "認知症カフェ",
+    "ward": "江東区",
+    "district": "大島",
+    "venue": "大島四丁目団地集会所",
+    "address": "東京都江東区大島4-1",
+    "schedule": "毎月第1金曜日 13:30～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都江東区大島四丁目１番",
+    "geocode_note": "一覧はPDF（地図）を画像で確認して読み取り",
+    "source": "江東区「認知症カフェ」ページの認知症カフェ紹介（令和8年10月現在・PDF）と運営日程表",
+    "source_url": "https://www.city.koto.lg.jp/211502/fukushi/koresha/ninchi/87326.html",
+    "contact_org": "大島四丁目団地 管理サービス事務所（連絡先は個人の携帯のため掲載せず。出典で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.812103,
+     35.687843
+    ]
+   },
+   "properties": {
+    "name": "カフェ流れ星",
+    "category": "認知症カフェ",
+    "ward": "江東区",
+    "district": "住吉",
+    "venue": "あそか園（地域交流スペース）",
+    "address": "東京都江東区住吉1-9-5",
+    "schedule": "毎月第1土曜日 10:00～12:00（定員20名）",
+    "fee": "記載なし",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都江東区住吉一丁目９番５号",
+    "geocode_note": "一覧はPDF（地図）を画像で確認して読み取り",
+    "source": "江東区「認知症カフェ」ページの認知症カフェ紹介（令和8年10月現在・PDF）と運営日程表",
+    "source_url": "https://www.city.koto.lg.jp/211502/fukushi/koresha/ninchi/87326.html",
+    "contact_org": "住吉長寿サポートセンター",
+    "phone": "03-3635-0646"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.818527,
+     35.672184
+    ]
+   },
+   "properties": {
+    "name": "長屋カフェ",
+    "category": "認知症カフェ",
+    "ward": "江東区",
+    "district": "東陽",
+    "venue": "江東区文化センター",
+    "address": "東京都江東区東陽4-11-3",
+    "schedule": "毎月第4日曜日 14:00～16:00（変更あり）",
+    "fee": "記載なし",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都江東区東陽四丁目１１番３号",
+    "geocode_note": "一覧はPDF（地図）を画像で確認して読み取り",
+    "source": "江東区「認知症カフェ」ページの認知症カフェ紹介（令和8年10月現在・PDF）と運営日程表",
+    "source_url": "https://www.city.koto.lg.jp/211502/fukushi/koresha/ninchi/87326.html",
+    "contact_org": "NPO法人 深川長屋（連絡先は個人の携帯のため掲載せず。出典で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.816544,
+     35.666416
+    ]
+   },
+   "properties": {
+    "name": "二丁目Yワイカフェ",
+    "category": "認知症カフェ",
+    "ward": "江東区",
+    "district": "東陽",
+    "venue": "YMCAコミュニティセンター",
+    "address": "東京都江東区東陽2-2-20",
+    "schedule": "毎月第2水曜日 14:00～16:00",
+    "fee": "記載なし",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都江東区東陽二丁目２番２０号",
+    "geocode_note": "一覧はPDF（地図）を画像で確認して読み取り",
+    "source": "江東区「認知症カフェ」ページの認知症カフェ紹介（令和8年10月現在・PDF）と運営日程表",
+    "source_url": "https://www.city.koto.lg.jp/211502/fukushi/koresha/ninchi/87326.html",
+    "contact_org": "東陽長寿サポートセンター",
+    "phone": "03-5665-4547"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.813049,
+     35.66444
+    ]
+   },
+   "properties": {
+    "name": "塩浜ペンギンカフェ",
+    "category": "認知症カフェ",
+    "ward": "江東区",
+    "district": "塩浜",
+    "venue": "東京保健医療専門職大学",
+    "address": "東京都江東区塩浜2-22-10",
+    "schedule": "不定期（開催日は問い合わせ）",
+    "fee": "記載なし",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都江東区塩浜二丁目２２番１０号",
+    "geocode_note": "一覧はPDF（地図）を画像で確認して読み取り",
+    "source": "江東区「認知症カフェ」ページの認知症カフェ紹介（令和8年10月現在・PDF）と運営日程表",
+    "source_url": "https://www.city.koto.lg.jp/211502/fukushi/koresha/ninchi/87326.html",
+    "contact_org": "東京保健医療専門職大学",
+    "phone": "03-6272-5671"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.809097,
+     35.647743
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ（パルひろば辰巳）",
+    "category": "認知症カフェ",
+    "ward": "江東区",
+    "district": "辰巳",
+    "venue": "パルひろば辰巳",
+    "address": "東京都江東区辰巳1-1-34",
+    "schedule": "基本 毎月第2木曜日 14:00～15:30",
+    "fee": "記載なし",
+    "reservation": "記載なし（事前に各カフェへ問い合わせ）",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都江東区辰巳一丁目１番３４号",
+    "geocode_note": "一覧はPDF（地図）を画像で確認して読み取り",
+    "source": "江東区「認知症カフェ」ページの認知症カフェ紹介（令和8年10月現在・PDF）と運営日程表",
+    "source_url": "https://www.city.koto.lg.jp/211502/fukushi/koresha/ninchi/87326.html",
+    "contact_org": "NPO法人 NPO・えん",
+    "phone": "03-3522-0302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      139.793381,
      35.71899
     ]
@@ -1137,6 +1398,528 @@
     "source_url": "https://www.city.sumida.lg.jp/kenko_fukushi/koureisya_kaigohoken/ninchisyo/orangecafe.html",
     "contact_org": "回向院",
     "phone": "03-5624-4182"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629288,
+     35.694603
+    ]
+   },
+   "properties": {
+    "name": "なかまの家カフェ",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "成田西",
+    "venue": "ケア24成田付近（区のマップに会場名なし）",
+    "address": "東京都杉並区成田西4-8-15",
+    "schedule": "第4火曜日 14:00～15:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区成田西四丁目８番１５号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24成田",
+    "phone": "03-5307-3822"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648972,
+     35.69775
+    ]
+   },
+   "properties": {
+    "name": "おれんじカフェ和田",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "梅里",
+    "venue": "総合介護センター",
+    "address": "東京都杉並区梅里1-7-14",
+    "schedule": "第3土曜日 13:30～15:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区梅里一丁目７番１４号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "総合介護センター",
+    "phone": "03-6913-8092"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624924,
+     35.715981
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ えん",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "本天沼",
+    "venue": "シャローム本天沼",
+    "address": "東京都杉並区本天沼2-36-17",
+    "schedule": "区のマップでは「お問い合わせください」",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区本天沼二丁目３６番１７号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "シャローム本天沼",
+    "phone": "03-3395-6333"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618286,
+     35.714237
+    ]
+   },
+   "properties": {
+    "name": "ぷらっとカフェ",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "清水",
+    "venue": "特別養護老人ホームすぎなみ正吉苑内",
+    "address": "東京都杉並区清水2-15-24",
+    "schedule": "第3水曜日 13:30～15:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区清水二丁目１５番２４号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24清水",
+    "phone": "03-5303-5823"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609787,
+     35.67963
+    ]
+   },
+   "properties": {
+    "name": "ロビーカフェ",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "高井戸西",
+    "venue": "認知症介護研究・研修東京センター 1階",
+    "address": "東京都杉並区高井戸西1-12-1",
+    "schedule": "第4金曜日 14:00～15:30",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区高井戸西一丁目１２番",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24高井戸",
+    "phone": "03-3334-2495"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619705,
+     35.727169
+    ]
+   },
+   "properties": {
+    "name": "きずなサロンいぐさ― オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "井草",
+    "venue": "ゆうゆう井草館",
+    "address": "東京都杉並区井草2-15-15",
+    "schedule": "第3水曜日 14:00～15:30",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区井草二丁目１５番１５号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24下井草",
+    "phone": "03-5303-5341"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658417,
+     35.70105
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ 陽だまりの輪杉並",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "高円寺南",
+    "venue": "ティールームオレンジペコ",
+    "address": "東京都杉並区高円寺南1-32-11",
+    "schedule": "第4日曜日 13:30～16:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区高円寺南一丁目３２番１１号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "オレンジカフェ陽だまりの輪杉並（連絡先は携帯のため掲載せず。出典で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.593414,
+     35.690121
+    ]
+   },
+   "properties": {
+    "name": "さくらカフェ",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "久我山",
+    "venue": "特別養護老人ホームさんじゅ久我山",
+    "address": "東京都杉並区久我山3-47-16",
+    "schedule": "第3火曜日 14:00～15:30",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区久我山三丁目４７番１６号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24久我山",
+    "phone": "03-5346-3348"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658249,
+     35.698578
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ クロワッサンとコーヒー",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "高円寺南",
+    "venue": "ゆうゆう高円寺東館",
+    "address": "東京都杉並区高円寺南1-7-22",
+    "schedule": "第1月曜日 10:30～12:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区高円寺南一丁目７番２２号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ゆうゆう高円寺東館",
+    "phone": "03-3315-1816"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625427,
+     35.685261
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ ここクル",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "浜田山",
+    "venue": "リコルス浜田山（TSUTAYA浜田山店2階）",
+    "address": "東京都杉並区浜田山3-37-15",
+    "schedule": "第3木曜日 13:30～14:30",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区浜田山三丁目３７番１５号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "リコルス浜田山",
+    "phone": "03-6304-9651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604706,
+     35.725525
+    ]
+   },
+   "properties": {
+    "name": "街かどサロン すてっぷ＆すきっぷ",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "井草",
+    "venue": "ヴェルドムール 1階",
+    "address": "東京都杉並区井草5-7-5",
+    "schedule": "毎週月曜日（第4を除く）13:30～15:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区井草五丁目７番５号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "街かどサロン すてっぷ＆すきっぷ",
+    "phone": "03-5303-4246"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63031,
+     35.705757
+    ]
+   },
+   "properties": {
+    "name": "オレンジさろん",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "阿佐谷北",
+    "venue": "久遠キリスト教会",
+    "address": "東京都杉並区阿佐谷北2-25-8",
+    "schedule": "第2火曜日 14:00～15:30",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区阿佐谷北二丁目２５番８号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24阿佐谷",
+    "phone": "03-3339-1588"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633179,
+     35.712543
+    ]
+   },
+   "properties": {
+    "name": "メロンカフェ",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "本天沼",
+    "venue": "河北前田病院 5階",
+    "address": "東京都杉並区本天沼1-2-1",
+    "schedule": "第2水曜日 14:00～16:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区本天沼一丁目２番１号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24阿佐谷",
+    "phone": "03-3339-1588"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643814,
+     35.689182
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ オアシス（なごみ松ノ木）",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "松ノ木",
+    "venue": "なごみ松ノ木",
+    "address": "東京都杉並区松ノ木1-12-50",
+    "schedule": "第2火曜日 14:30～16:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区松ノ木一丁目１２番５０号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24松ノ木",
+    "phone": "03-3318-8530"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640945,
+     35.694279
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ オアシス（けやき亭）",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "成田東",
+    "venue": "けやき亭",
+    "address": "東京都杉並区成田東3-2-1",
+    "schedule": "第4火曜日 14:30～16:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区成田東三丁目２番１号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24松ノ木",
+    "phone": "03-3318-8530"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618469,
+     35.701511
+    ]
+   },
+   "properties": {
+    "name": "耳よりなカフェ",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "荻窪",
+    "venue": "耳のそうだん室JINO（三好屋ビル1階）",
+    "address": "東京都杉並区荻窪5-10-22",
+    "schedule": "第4火曜日 13:30～14:30",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区荻窪五丁目１０番２２号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24荻窪",
+    "phone": "03-3391-0888"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620377,
+     35.710262
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ（特養フェニックス杉並）",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "天沼",
+    "venue": "特別養護老人ホームフェニックス杉並",
+    "address": "東京都杉並区天沼3-19-14",
+    "schedule": "第3木曜日 14:00～15:30",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区天沼三丁目１９番１４号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "特別養護老人ホームフェニックス杉並",
+    "phone": "03-5335-5100"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631973,
+     35.693752
+    ]
+   },
+   "properties": {
+    "name": "土曜の音楽カフェ",
+    "category": "認知症カフェ",
+    "ward": "杉並区",
+    "district": "成田西",
+    "venue": "ケア24成田",
+    "address": "東京都杉並区成田西3-7-4",
+    "schedule": "隔月の土曜日（不定）14:00～15:00",
+    "fee": "会によりお茶菓子代あり",
+    "reservation": "事前に各会へ問い合わせ",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都杉並区成田西三丁目７番４号",
+    "geocode_note": "一覧はPDF（表）を画像で確認して読み取り",
+    "source": "杉並区「介護者の会・認知症カフェ」ページの杉並区認知症カフェマップ（令和8年4月発行・PDF）",
+    "source_url": "https://www.city.suginami.tokyo.jp/s039/1164.html",
+    "contact_org": "ケア24成田",
+    "phone": "03-5307-3822"
    }
   },
   {
