@@ -2308,6 +2308,398 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     139.791199,
+     35.738144
+    ]
+   },
+   "properties": {
+    "name": "ケアラーズカフェ 虹の会",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "南千住",
+    "venue": "南千住ふれあい館",
+    "address": "東京都荒川区南千住6-36-13",
+    "schedule": "毎月第4火曜日 13:00～14:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区南千住六丁目３６番１３号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "虹の会",
+    "phone": "03-3807-2675"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.791199,
+     35.738144
+    ]
+   },
+   "properties": {
+    "name": "Mカフェ～南6",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "南千住",
+    "venue": "南千住ふれあい館",
+    "address": "東京都荒川区南千住6-36-13",
+    "schedule": "毎月第3火曜日 14:00～15:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区南千住六丁目３６番１３号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "南千住東部地域包括支援センター／南千住西部地域包括支援センター",
+    "phone": "03-3805-5702"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.808655,
+     35.736542
+    ]
+   },
+   "properties": {
+    "name": "Mカフェ～汐入",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "南千住",
+    "venue": "リバーパーク汐入町会 防災センター（汐入公園内）",
+    "address": "東京都荒川区南千住8-13-2",
+    "schedule": "毎月第2土曜日 14:00～15:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区南千住八丁目１３番",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "南千住東部地域包括支援センター／南千住西部地域包括支援センター",
+    "phone": "03-3805-5702"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.783875,
+     35.733818
+    ]
+   },
+   "properties": {
+    "name": "あら茶会＆I茶会",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "荒川",
+    "venue": "峡田ふれあい館",
+    "address": "東京都荒川区荒川3-3-10",
+    "schedule": "毎月第2火曜日 10:30～11:30（9月のみ13:30～15:00）",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区荒川三丁目３番１０号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "荒川地域包括支援センター",
+    "phone": "03-5855-3323"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.778244,
+     35.751484
+    ]
+   },
+   "properties": {
+    "name": "まちなかカフェ 尾久のはらっぱ支店",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "町屋",
+    "venue": "尾久のはらっぱ",
+    "address": "東京都荒川区町屋5-10-9",
+    "schedule": "毎月第3木曜日（2部制）13:00～14:15／14:30～15:45",
+    "fee": "100円",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区町屋五丁目１０番９号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "町屋地域包括支援センター",
+    "phone": "03-3894-3568"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.783493,
+     35.750278
+    ]
+   },
+   "properties": {
+    "name": "まちなかカフェ",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "町屋",
+    "venue": "荒木田ふれあい館",
+    "address": "東京都荒川区町屋6-13-2",
+    "schedule": "毎月第4月曜日 13:00～14:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区町屋六丁目１３番２号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "町屋地域包括支援センター",
+    "phone": "03-3894-3568"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.788879,
+     35.748833
+    ]
+   },
+   "properties": {
+    "name": "ブルースカイカフェ",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "町屋",
+    "venue": "尾竹橋公園スカイハイツ",
+    "address": "東京都荒川区町屋7-19-5",
+    "schedule": "毎月第2金曜日 14:00～15:30",
+    "fee": "100円",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区町屋七丁目１９番５号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "町屋地域包括支援センター",
+    "phone": "03-3894-3568"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.766113,
+     35.750355
+    ]
+   },
+   "properties": {
+    "name": "尾久図書館 オレンジカフェ ひろば",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "東尾久",
+    "venue": "尾久図書館",
+    "address": "東京都荒川区東尾久8-45-4",
+    "schedule": "毎月第3土曜日 14:00～16:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区東尾久八丁目４５番４号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "東尾久地域包括支援センター／西尾久地域包括支援センター",
+    "phone": "03-5855-8513"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.762878,
+     35.753105
+    ]
+   },
+   "properties": {
+    "name": "みんなの家’s オレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "西尾久",
+    "venue": "グループホーム みんなの家・西尾久",
+    "address": "東京都荒川区西尾久3-15-1",
+    "schedule": "毎月第4土曜日 14:00～15:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区西尾久三丁目１５番１号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "グループホーム みんなの家・西尾久",
+    "phone": "03-5855-7553"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.75769,
+     35.745632
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ わすれな想",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "西尾久",
+    "venue": "まる福ホームクリニック（1階）",
+    "address": "東京都荒川区西尾久4-27-3",
+    "schedule": "毎月第4土曜日 15:00～16:00",
+    "fee": "無料",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区西尾久四丁目２７番３号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "まる福ホームクリニック",
+    "phone": "03-6807-9810"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.773224,
+     35.727901
+    ]
+   },
+   "properties": {
+    "name": "おうちのオレンジカフェ",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "東日暮里",
+    "venue": "レストランセリオ（アートホテル日暮里ラングウッド1階）",
+    "address": "東京都荒川区東日暮里5-50-5",
+    "schedule": "毎月第2木曜日 14:30～15:30",
+    "fee": "飲食代",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区東日暮里五丁目５０番５号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "おうちで笑顔クリニック",
+    "phone": "03-5604-9545"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.776581,
+     35.731564
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ にっぽりんぐ",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "東日暮里",
+    "venue": "studio753",
+    "address": "東京都荒川区東日暮里6-22-13",
+    "schedule": "毎月第2土曜日 13:30～15:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区東日暮里六丁目２２番１３号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "東京都認知症疾患医療センター あべクリニック",
+    "phone": "03-5615-3020"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.776093,
+     35.733192
+    ]
+   },
+   "properties": {
+    "name": "みんなの茶の間",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "東日暮里",
+    "venue": "ひぐらしふれあい館",
+    "address": "東京都荒川区東日暮里6-28-15",
+    "schedule": "毎月第4水曜日 10:30～11:30",
+    "fee": "100円",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区東日暮里六丁目２８番１５号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "東日暮里地域包括支援センター／西日暮里地域包括支援センター",
+    "phone": "03-5615-3171"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.770828,
+     35.736153
+    ]
+   },
+   "properties": {
+    "name": "にっこりカフェ inひぐらし",
+    "category": "認知症カフェ",
+    "ward": "荒川区",
+    "district": "西日暮里",
+    "venue": "西日暮里ふれあい館",
+    "address": "東京都荒川区西日暮里6-24-4",
+    "schedule": "毎月第4土曜日 13:00～14:30",
+    "fee": "100円",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都荒川区西日暮里六丁目２４番４号",
+    "source": "荒川区「荒川区オレンジカフェへようこそ」ページ（2026年10月6日更新）",
+    "source_url": "https://www.city.arakawa.tokyo.jp/a028/koureishairyou/ninchishou/orengecafeannnai.html",
+    "contact_org": "東日暮里地域包括支援センター／西日暮里地域包括支援センター",
+    "phone": "03-5615-3171"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      139.735062,
      35.734837
     ]
@@ -2889,6 +3281,818 @@
     "source_url": "https://www.city.toshima.lg.jp/167/koresha/ninchisho/ninchishocafe-youkoso.html",
     "contact_org": "（連絡先は個人の携帯のため掲載せず。出典ページで確認）（連絡先は個人の携帯のため掲載せず。出典ページで確認）",
     "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.71756,
+     35.746178
+    ]
+   },
+   "properties": {
+    "name": "ヨウコー陽だまりカフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "板橋",
+    "venue": "（株）揚工舎 本社ビル3階 A教室",
+    "address": "東京都板橋区板橋1-10-14",
+    "schedule": "毎月第2または第4木曜日 13:30～15:30（要問合せ）",
+    "fee": "100円（ワンドリンク付）",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区板橋一丁目１０番１４号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "（株）揚工舎",
+    "phone": "03-5944-2580"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.707336,
+     35.746124
+    ]
+   },
+   "properties": {
+    "name": "けやきカフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "大山",
+    "venue": "リハビリホームグランダ大山 1階",
+    "address": "東京都板橋区大山金井町21-6",
+    "schedule": "毎月第2水曜日 14:00～16:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区大山金井町２１番６号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "リハビリホームグランダ大山",
+    "phone": "03-5917-3150"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.706192,
+     35.749233
+    ]
+   },
+   "properties": {
+    "name": "遊座健幸カフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "大山",
+    "venue": "おおやま健幸の街クリニック",
+    "address": "東京都板橋区大山東町25-12",
+    "schedule": "毎月第3水曜日 14:00～16:00",
+    "fee": "300円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区大山東町２５番１２号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "おおやま健幸の街クリニック",
+    "phone": "03-4405-3519"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.704056,
+     35.750134
+    ]
+   },
+   "properties": {
+    "name": "板橋文化会館前 パナカフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "大山",
+    "venue": "パナソニックエイジフリーショップ板橋豊島練馬 店舗内",
+    "address": "東京都板橋区大山東町53-10",
+    "schedule": "毎月第2水曜日 11:30～14:00",
+    "fee": "200円",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区大山東町５３番１０号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "パナソニックエイジフリーショップ板橋豊島練馬",
+    "phone": "03-5943-9888"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.693237,
+     35.747093
+    ]
+   },
+   "properties": {
+    "name": "つくしんぼ茶房",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "大山",
+    "venue": "つくしんぼ会 3階ホール",
+    "address": "東京都板橋区大山西町70-10",
+    "schedule": "毎月1回木曜日（開催週は不定期）14:00～16:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区大山西町７０番１０号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "つくしんぼ会",
+    "phone": "03-3958-1165"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.720825,
+     35.753708
+    ]
+   },
+   "properties": {
+    "name": "サロン・ド・カフェ加賀",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "加賀",
+    "venue": "シルバーピア加賀内 職員食堂",
+    "address": "東京都板橋区加賀1-3-1",
+    "schedule": "毎月第3水曜日 14:00～15:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区加賀一丁目３番１号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "シルバーピア加賀",
+    "phone": "03-5248-2661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.708832,
+     35.757053
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ（そんぽの家S板橋仲宿）",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "仲宿",
+    "venue": "そんぽの家S板橋仲宿 2階食堂",
+    "address": "東京都板橋区仲宿50-1",
+    "schedule": "毎月第3月曜日 14:00～15:45",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区仲宿５０番１号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "そんぽの家S板橋仲宿",
+    "phone": "03-5944-3481"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.699539,
+     35.752163
+    ]
+   },
+   "properties": {
+    "name": "みんなの認知症カフェ カウピリカフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "仲町",
+    "venue": "クローバーのさと施設内",
+    "address": "東京都板橋区仲町1-4",
+    "schedule": "奇数月第3水曜日・偶数月第3木曜日 14:00～15:00",
+    "fee": "100円（認知症サポーターは無料）",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区仲町１番４号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "クローバーのさと",
+    "phone": "03-3957-1098"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.703323,
+     35.741203
+    ]
+   },
+   "properties": {
+    "name": "ほのぼのカフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "中丸町",
+    "venue": "中丸集会所",
+    "address": "東京都板橋区中丸町27-11",
+    "schedule": "毎月第2・4月曜日 13:30～15:30",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区中丸町２７番１１号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典のリーフレットで確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.693497,
+     35.754265
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェひまわり",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "弥生町",
+    "venue": "弥生会館 1階",
+    "address": "東京都板橋区弥生町26",
+    "schedule": "毎月第3土曜日 11:00～13:00（8月・2月は休み）",
+    "fee": "300円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区弥生町２６番",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "弥生会館",
+    "phone": "03-6905-6246"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.692337,
+     35.749264
+    ]
+   },
+   "properties": {
+    "name": "ケアラーズカフェさくら",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "大谷口",
+    "venue": "さくら薬局本店",
+    "address": "東京都板橋区大谷口上町28-11",
+    "schedule": "奇数月第2金曜日 15:00～16:00",
+    "fee": "無料",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区大谷口上町２８番１１号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "さくら薬局本店",
+    "phone": "03-3957-1122"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.67926,
+     35.758369
+    ]
+   },
+   "properties": {
+    "name": "けやき庵",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "桜川",
+    "venue": "ケアセンターけやき 1階休憩室",
+    "address": "東京都板橋区桜川2-10-7",
+    "schedule": "毎月10日 14:00～16:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区桜川二丁目１０番７号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "ケアセンターけやき",
+    "phone": "03-5922-6322"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.681839,
+     35.753929
+    ]
+   },
+   "properties": {
+    "name": "メモリーカフェ（かかわろ会・とうしん）",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "東新町",
+    "venue": "かかわろ会・とうしん",
+    "address": "東京都板橋区東新町2-18-2",
+    "schedule": "毎週木曜日 13:30～14:30",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区東新町二丁目１８番２号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典のリーフレットで確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.683716,
+     35.763355
+    ]
+   },
+   "properties": {
+    "name": "たつの子森のサロン",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "常盤台",
+    "venue": "たつの子ライフ・サービス 1階",
+    "address": "東京都板橋区常盤台3-24-1",
+    "schedule": "毎月第2日曜日 10:30～12:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区常盤台三丁目２４番１号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "たつの子ライフ・サービス",
+    "phone": "03-3960-9058"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.668961,
+     35.772373
+    ]
+   },
+   "properties": {
+    "name": "ぐうにいずカフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "西台",
+    "venue": "ヒラタビル",
+    "address": "東京都板橋区西台4-8-13",
+    "schedule": "毎週月・土曜日 11:00～14:00",
+    "fee": "300円（おやつ・材料費）",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区西台四丁目８番１３号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典のリーフレットで確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.69429,
+     35.771801
+    ]
+   },
+   "properties": {
+    "name": "がじゅまる",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "前野町",
+    "venue": "板橋ロイヤルケアセンター 1階ボランティアルーム",
+    "address": "東京都板橋区前野町3-46-3",
+    "schedule": "奇数月第4土曜日 14:00～15:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区前野町三丁目４６番３号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "板橋ロイヤルケアセンター",
+    "phone": "03-5915-2677"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.684357,
+     35.746605
+    ]
+   },
+   "properties": {
+    "name": "かけはし喫茶",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "向原",
+    "venue": "コーシャハイム向原7号棟",
+    "address": "東京都板橋区向原3-7-7",
+    "schedule": "毎月第2水曜日 14:00～15:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区向原三丁目７番７号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "コーシャハイム向原",
+    "phone": "03-5917-0753"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.696503,
+     35.775623
+    ]
+   },
+   "properties": {
+    "name": "ひるカフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "小豆沢",
+    "venue": "ヒルマ薬局小豆沢店",
+    "address": "東京都板橋区小豆沢2-17-1",
+    "schedule": "毎月第4土曜日 15:00～17:00",
+    "fee": "体験参加500円",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区小豆沢二丁目１７番１号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "ヒルマ薬局小豆沢店",
+    "phone": "03-5970-2911"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.701187,
+     35.769974
+    ]
+   },
+   "properties": {
+    "name": "サニーカフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "大原町",
+    "venue": "特別養護老人ホームサニーヒル板橋 1階地域交流スペース",
+    "address": "東京都板橋区大原町6-8",
+    "schedule": "毎月第2金曜日 13:30～15:30",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区大原町６番８号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "特別養護老人ホームサニーヒル板橋",
+    "phone": "03-5939-8832"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.687073,
+     35.77882
+    ]
+   },
+   "properties": {
+    "name": "こねこ・サロン＆認知症カフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "志村",
+    "venue": "花のまるデイサービス内 1階",
+    "address": "東京都板橋区志村3-26-15",
+    "schedule": "毎月第3木曜日 14:00～16:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区志村三丁目２６番１５号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "花のまるデイサービス",
+    "phone": "03-5970-4337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.703705,
+     35.762417
+    ]
+   },
+   "properties": {
+    "name": "陽ちゃん家カフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "宮本町",
+    "venue": "コミュニティスペース陽ちゃん家",
+    "address": "東京都板橋区宮本町6-12",
+    "schedule": "毎月第1・3火曜日（祝日を除く）10:00～12:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区宮本町６番１２号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典のリーフレットで確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635513,
+     35.783161
+    ]
+   },
+   "properties": {
+    "name": "たんぽぽカフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "成増",
+    "venue": "ケアタウン成増 デイルーム",
+    "address": "東京都板橋区成増4-14-18",
+    "schedule": "毎月第3日曜日 13:30～15:30",
+    "fee": "200円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区成増四丁目１４番１８号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "ケアタウン成増",
+    "phone": "03-3939-0678"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629913,
+     35.784565
+    ]
+   },
+   "properties": {
+    "name": "リラクゼーションカフェ 杜の庭",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "成増",
+    "venue": "みどりの杜 1階デイケアスペース",
+    "address": "東京都板橋区成増5-6-3",
+    "schedule": "毎月第4土曜日 14:00～15:30",
+    "fee": "200円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区成増五丁目６番３号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "みどりの杜",
+    "phone": "03-5383-2772"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648376,
+     35.778515
+    ]
+   },
+   "properties": {
+    "name": "くじらハウス（地域に開かれた居場所）",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "赤塚",
+    "venue": "くじらハウス",
+    "address": "東京都板橋区赤塚7-26-7",
+    "schedule": "毎月第4木曜日 14:00～16:00",
+    "fee": "講座参加費100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区赤塚七丁目２６番７号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "くじらハウス",
+    "phone": "050-5538-3068"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.659149,
+     35.777954
+    ]
+   },
+   "properties": {
+    "name": "カフェひびき",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "徳丸",
+    "venue": "カフェひびき",
+    "address": "東京都板橋区徳丸6-13-18",
+    "schedule": "毎月第1土曜日 11:30～12:30",
+    "fee": "講座500円",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区徳丸六丁目１３番１８号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "カフェひびき",
+    "phone": "03-6313-6356"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631622,
+     35.781147
+    ]
+   },
+   "properties": {
+    "name": "成増元気カフェ",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "成増",
+    "venue": "成増三丁目集会所",
+    "address": "東京都板橋区成増3-34-21",
+    "schedule": "毎月第2・4水曜日 15:00～16:30",
+    "fee": "無料",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区成増三丁目３４番２１号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典のリーフレットで確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.663651,
+     35.785492
+    ]
+   },
+   "properties": {
+    "name": "カフェイースト",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "高島平",
+    "venue": "Eラウンジ",
+    "address": "東京都板橋区高島平2-29-1",
+    "schedule": "毎月第4金曜日 14:00～16:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区高島平二丁目２９番１号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "高島平おとしより相談センター",
+    "phone": "03-5922-5661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.663055,
+     35.786983
+    ]
+   },
+   "properties": {
+    "name": "チームオレンジ高島平",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "高島平",
+    "venue": "高島平二丁目第二公園・高島平二丁目団地集会所",
+    "address": "東京都板橋区高島平2-32-2",
+    "schedule": "毎月第3日曜日 10:00～13:00",
+    "fee": "100円（収穫時300円）",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区高島平二丁目３２番２号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "チームオレンジ高島平",
+    "phone": "03-3969-3101"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.663055,
+     35.786983
+    ]
+   },
+   "properties": {
+    "name": "高島平ココからステーション",
+    "category": "認知症カフェ",
+    "ward": "板橋区",
+    "district": "高島平",
+    "venue": "高島平ココからステーション（健康長寿医療センター運営）",
+    "address": "東京都板橋区高島平2-32-2-105",
+    "schedule": "毎週月・水・金曜日、毎月第2・4土曜日（祝日除く）11:00～16:00",
+    "fee": "無料",
+    "reservation": "事前予約が必要な日あり",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都板橋区高島平二丁目３２番２号",
+    "source": "板橋区「認知症フレンドリーカフェ」ページのリーフレット「人とつながる場所へでかけよう♪」（令和8年9月1日時点）",
+    "source_url": "https://www.city.itabashi.tokyo.jp/kenko/ninchisho/shien/1003774.html",
+    "contact_org": "高島平ココからステーション",
+    "phone": "03-6909-7645"
    }
   }
  ]
