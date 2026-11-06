@@ -203,9 +203,10 @@ function buildCafeLayer(data) {
   cafeLayer = L.geoJSON(data, {
     pointToLayer: function (f, latlng) {
       const paused = f.properties.paused;
+      const unsure = /未確認/.test(f.properties.category || '');   // 会場・日程が分からない（問い合わせ先の位置）
       return L.circleMarker(latlng, {
         radius: dotRadius(map.getZoom()) + 2,
-        fillColor: paused ? '#ffffff' : '#c2255c',
+        fillColor: paused ? '#ffffff' : (unsure ? '#f3b1c9' : '#c2255c'),
         color: '#c2255c',
         weight: 1.5,
         fillOpacity: paused ? 0.9 : 0.9
@@ -305,7 +306,7 @@ legend.onAdd = function () {
     <span style="background:#2171b5"></span>地域交流センター（区の公式情報）<br>
     <span style="background:#0b7285"></span>地域活動センター（区の公式情報）<br>
     <span style="background:#888888"></span>その他施設<br>
-    <span style="background:#c2255c"></span>認知症カフェ（一部の区のみ・チェックを入れると表示）
+    <span style="background:#c2255c"></span>認知症カフェ（一部の区のみ・チェックを入れると表示）<br><span style="background:#f3b1c9"></span>　同・会場と日程が未確認（問い合わせ先の位置）
   `;
   return div;
 };
