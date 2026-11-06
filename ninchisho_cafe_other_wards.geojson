@@ -3265,6 +3265,586 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     139.678421,
+     35.692505
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ土屋",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "弥生町",
+    "venue": "弥生区民活動センター",
+    "address": "東京都中野区弥生町1-58-14",
+    "schedule": "毎月第1日曜日 13:30～15:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区弥生町一丁目５８番１４号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典の一覧で確認）",
+    "phone": "03-3380-5030"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.669724,
+     35.712147
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェアロハ",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "上高田",
+    "venue": "アロハデイサービス",
+    "address": "東京都中野区上高田2-45-10",
+    "schedule": "不定期（開催日は問い合わせ）",
+    "fee": "300円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区上高田二丁目４５番１０号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "ピクニックケア",
+    "phone": "03-6657-9325"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.685181,
+     35.707169
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェとんぼ",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "東中野",
+    "venue": "東中野キングス・ガーデン",
+    "address": "東京都中野区東中野4-2-16",
+    "schedule": "毎週水曜日 14:00～16:00",
+    "fee": "200円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区東中野四丁目２番１６号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典の一覧で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.687607,
+     35.700073
+    ]
+   },
+   "properties": {
+    "name": "小淀ホームスマイルcafé",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "中央",
+    "venue": "小淀ホーム",
+    "address": "東京都中野区中央1-18-3",
+    "schedule": "毎週火曜日 10:00～11:30",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区中央一丁目１８番３号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "小淀ホーム",
+    "phone": "03-3366-6511"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658096,
+     35.709885
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェなごみ",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "野方",
+    "venue": "竹内ビル1階",
+    "address": "東京都中野区野方1-29-4",
+    "schedule": "毎月第4土曜日 14:00～16:00",
+    "fee": "200円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区野方一丁目２９番４号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典の一覧で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.664459,
+     35.728733
+    ]
+   },
+   "properties": {
+    "name": "えこも亭",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "江古田",
+    "venue": "東京総合保健福祉センター江古田の森",
+    "address": "東京都中野区江古田3-14-19",
+    "schedule": "毎月5日 14:00～16:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区江古田三丁目１４番１９号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "東京総合保健福祉センター江古田の森",
+    "phone": "03-5318-3711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.662827,
+     35.721954
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェふくろう",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "沼袋",
+    "venue": "Kビル1階 ふくろうスポーツ館",
+    "address": "東京都中野区沼袋2-30-6",
+    "schedule": "毎月第1日曜日 14:00～16:00",
+    "fee": "300円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区沼袋二丁目３０番６号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "ふくろうスポーツ館",
+    "phone": "03-3389-2963"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.667297,
+     35.708
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェきょうりつ",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "中野",
+    "venue": "中野共立診療所 4階 多目的室",
+    "address": "東京都中野区中野5-45-4",
+    "schedule": "毎月第2水曜日 14:00～15:00",
+    "fee": "100円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区中野五丁目４５番４号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "中野共立診療所",
+    "phone": "03-3386-9139"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639633,
+     35.723549
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェさぎのみや",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "鷺宮",
+    "venue": "鷺宮区民活動センター 3階",
+    "address": "東京都中野区鷺宮3-22-5",
+    "schedule": "毎月第3火曜日 13:30～15:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区鷺宮三丁目２２番５号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典の一覧で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.664047,
+     35.727547
+    ]
+   },
+   "properties": {
+    "name": "気まぐれカフェゆうあい",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "江古田",
+    "venue": "グループホームゆうあい",
+    "address": "東京都中野区江古田2-24-11",
+    "schedule": "年2～3回（開催日は問い合わせ）",
+    "fee": "昼食代",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区江古田二丁目２４番１１号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "グループホームゆうあい",
+    "phone": "03-3389-5515"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638992,
+     35.719879
+    ]
+   },
+   "properties": {
+    "name": "みかんライブラリー",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "白鷺",
+    "venue": "しらさぎ桜苑",
+    "address": "東京都中野区白鷺1-14-8",
+    "schedule": "毎月第4水曜日 13:30～15:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区白鷺一丁目１４番８号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "しらさぎ桜苑",
+    "phone": "03-5356-5447"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.667526,
+     35.702347
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェ陽だまりの輪中野",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "中央",
+    "venue": "桃園区民活動センター",
+    "address": "東京都中野区中央4-57-1",
+    "schedule": "毎月第3火曜日 13:30～15:30",
+    "fee": "200円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区中央四丁目５７番１号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典の一覧で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.671646,
+     35.708836
+    ]
+   },
+   "properties": {
+    "name": "おしゃべりカフェ",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "中野",
+    "venue": "南中野区民活動センター 2階 調理室",
+    "address": "東京都中野区中野5-5-2",
+    "schedule": "毎月第1水曜日 14:00～16:00",
+    "fee": "300円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区中野五丁目５番２号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典の一覧で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.661957,
+     35.70734
+    ]
+   },
+   "properties": {
+    "name": "Nカフェ",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "中野",
+    "venue": "スターバックスコーヒー 中野セントラルパーク店内",
+    "address": "東京都中野区中野4-10-2",
+    "schedule": "年4回（次回は令和8年12月11日(金) 10:00～12:00）",
+    "fee": "飲み物代は各自",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区中野四丁目１０番",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "中野区 地域包括ケア推進課",
+    "phone": "03-3228-5785"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.662369,
+     35.686359
+    ]
+   },
+   "properties": {
+    "name": "ほっとカフェ広町",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "弥生町",
+    "venue": "コーシャハイム中野弥生町 コミュニティサロン",
+    "address": "東京都中野区弥生町6-2",
+    "schedule": "毎月第2・第4金曜日 13:30～15:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区弥生町六丁目２番",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典の一覧で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.670273,
+     35.704952
+    ]
+   },
+   "properties": {
+    "name": "オレンジカフェゆるナカ",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "中野",
+    "venue": "遊びのひろば ゆるナカふぇ（1階北側）",
+    "address": "東京都中野区中野2-14-24",
+    "schedule": "毎月第2月曜日（時間は区の一覧で確認）",
+    "fee": "500円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区中野二丁目１４番２４号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "（連絡先は個人の携帯のため掲載せず。出典の一覧で確認）",
+    "phone": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.66983,
+     35.727127
+    ]
+   },
+   "properties": {
+    "name": "カフェゆうゆう",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "江古田",
+    "venue": "地域ふれあいスペースえごた 1階",
+    "address": "東京都中野区江古田3-3-22",
+    "schedule": "毎月第3土曜日 13:30～15:30",
+    "fee": "200円",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区江古田三丁目３番２２号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "地域ふれあいスペースえごた",
+    "phone": "03-5913-1871"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632751,
+     35.729706
+    ]
+   },
+   "properties": {
+    "name": "音楽療法士による歌声喫茶",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "上鷺宮",
+    "venue": "プレザングラン中野鷺宮",
+    "address": "東京都中野区上鷺宮2-21-36",
+    "schedule": "毎月第2水曜日 13:30～14:30",
+    "fee": "無料（先着20名・要予約）",
+    "reservation": "要予約",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区上鷺宮二丁目２１番３６号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "プレザングラン中野鷺宮",
+    "phone": "03-5987-0821"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.670807,
+     35.687683
+    ]
+   },
+   "properties": {
+    "name": "グランダセラピストと行う健康カフェ",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "弥生町",
+    "venue": "リハビリホームグランダ西新宿 地下1階",
+    "address": "東京都中野区弥生町4-17-4",
+    "schedule": "毎月第3月曜日 14:00～15:30",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区弥生町四丁目１７番４号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "リハビリホームグランダ西新宿",
+    "phone": "03-6304-8407"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.664627,
+     35.704666
+    ]
+   },
+   "properties": {
+    "name": "こもれびカフェ",
+    "category": "認知症カフェ",
+    "ward": "中野区",
+    "district": "中野",
+    "venue": "桃園会館",
+    "address": "東京都中野区中野3-35-1",
+    "schedule": "毎月1回程度（不定期）13:30～15:00",
+    "fee": "無料",
+    "reservation": "記載なし",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（住所からの推定・未確認）",
+    "geocode_match": "東京都中野区中野三丁目３５番１号",
+    "geocode_note": "一覧は画像のため目で読み取り。時刻・番地の読み違いがありえます",
+    "source": "中野区「なかのオレンジカフェ」ページのオレンジカフェ一覧（令和8年8月時点・画像）",
+    "source_url": "https://www.city.tokyo-nakano.lg.jp/kenko_hukushi/kourei/ninchisyo/orangecafe.html",
+    "contact_org": "こもれびカフェ",
+    "phone": "03-6382-8043"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      139.791199,
      35.738144
     ]
