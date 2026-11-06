@@ -87,6 +87,8 @@ const COLOR = {
 let allFeatures = [];
 let layer = null;
 let cafeLayer = null;
+let cafeData = null;   // 読み込んだ全件
+let curWard = '';      // いま選んでいる区（空なら全区）
 let showFac = true;
 let showCafe = false;
 
@@ -169,6 +171,8 @@ function render(ward) {
   if (showFac) layer.addTo(map);
   if (feats.length) map.fitBounds(layer.getBounds(), { padding: [30, 30], maxZoom: 16 });
   restyleDots();
+  curWard = ward || '';
+  refreshCafe();
   if (cafeLayer && showCafe) cafeLayer.bringToFront();
 }
 
@@ -214,23 +218,40 @@ function buildCafeLayer(data) {
   });
 }
 let cafeLoading = false;
+function cafeMsg() {
+  const msg = document.getElementById('cafe-msg');
+  if (!showCafe || !cafeData) return;
+  const all = cafeData.features;
+  const covered = [...new Set(all.map(f => f.properties.ward))];
+  if (curWard) {
+    const n = all.filter(f => f.properties.ward === curWard).length;
+    msg.textContent = n ? curWard + '：' + n + '件' : curWard + 'の認知症カフェは、まだ地図にありません';
+  } else {
+    const k = all.filter(f => f.properties.paused).length;
+    msg.textContent = all.length + '件' + (k ? '（休止中' + k + '件は白抜き）' : '') + '　対応：' + covered.map(w => w.replace('区', '')).join('・') + '区のみ';
+  }
+}
+function refreshCafe() {
+  if (!cafeData) return;
+  if (cafeLayer) map.removeLayer(cafeLayer);
+  const feats = cafeData.features.filter(f => !curWard || f.properties.ward === curWard);
+  buildCafeLayer({ type: 'FeatureCollection', features: feats });
+  if (showCafe) { cafeLayer.addTo(map); cafeLayer.bringToFront(); }
+  cafeMsg();
+}
 function setCafe(on) {
   showCafe = on;
   const msg = document.getElementById('cafe-msg');
   if (!on) { if (cafeLayer) map.removeLayer(cafeLayer); msg.textContent = ''; return; }
-  if (cafeLayer) { cafeLayer.addTo(map); cafeLayer.bringToFront(); restyleCafe(); return; }
+  if (cafeData) { refreshCafe(); return; }
   if (cafeLoading) return;
   cafeLoading = true;
   msg.textContent = '読み込み中…';
   Promise.all(['shinagawa_ninchisho_cafe.geojson', 'minato_ninchisho_cafe.geojson', 'ninchisho_cafe_other_wards.geojson'].map(u =>
       fetch(u + '?v=' + Date.now()).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })))
     .then(parts => {
-      const data = { type: 'FeatureCollection', features: [].concat(...parts.map(d => d.features)) };
-      buildCafeLayer(data);
-      const n = data.features.length, k = data.features.filter(f => f.properties.paused).length;
-      const wards = [...new Set(data.features.map(f => f.properties.ward))].map(w => w.replace('区', ''));
-      msg.textContent = n + '件' + (k ? '（休止中' + k + '件は白抜き）' : '') + '　対応：' + wards.join('・') + '区のみ';
-      if (showCafe) { cafeLayer.addTo(map); cafeLayer.bringToFront(); }
+      cafeData = { type: 'FeatureCollection', features: [].concat(...parts.map(d => d.features)) };
+      refreshCafe();
     })
     .catch(() => { msg.textContent = '読み込めませんでした。時間をおいて開き直してください'; document.getElementById('chk-cafe').checked = false; showCafe = false; })
     .finally(() => { cafeLoading = false; });
