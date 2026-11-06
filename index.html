@@ -172,21 +172,24 @@ function render(ward) {
   if (cafeLayer && showCafe) cafeLayer.bringToFront();
 }
 
-// ---- 認知症カフェ（品川区・港区）別レイヤー ----
+// ---- 認知症カフェ（区によって未対応あり）別レイヤー ----
 function cafePopup(p, lat, lng) {
   const pause = p.paused ? '<div class="cafe-warn">※区のページで「現在休止中」とされています</div>' : '';
   const tel = /^0\d{1,3}-\d{2,4}-\d{4}$/.test(p.phone || '')
     ? '<br><a class="sv-btn" href="tel:' + esc(p.phone.replace(/-/g, '')) + '">📞 ' + esc(p.phone) + ' に電話する</a>'
     : '<br>電話番号は、下の出典（区のページ）で確かめてください';
+  const mail = /^[\w.+-]+@[\w.-]+\.[a-z]{2,}$/i.test(p.email || '')
+    ? '<br><a class="sv-btn" href="mailto:' + esc(p.email) + '">✉ ' + esc(p.email) + '</a>' : '';
+  const gnote = p.geocode_note ? '<div style="font-size:0.75rem;color:#666;">位置：' + esc(p.geocode_note) + '</div>' : '';
   const url = /^https:\/\//.test(p.source_url || '') ? p.source_url : '';
   return `
     <div class="popup-title">${esc(p.name)}</div>
     ${pause}
     <div>会場：${esc(p.venue)}（${esc(p.district)}地区）</div>
-    <div>${esc(p.address)}</div>
+    <div>${esc(p.address)}</div>${gnote}
     <div>開催：${esc(p.schedule)}</div>
     <div>参加費：${esc(p.fee)}　予約：${esc(p.reservation)}</div>
-    <div>問い合わせ：${esc(p.contact_org || '')}${tel}</div>
+    <div>問い合わせ：${esc(p.contact_org || '')}${tel}${mail}</div>
     <div style="margin-top:4px;font-size:0.75rem;color:#666;">開催日は変わることがあります。行く前に区のページで確かめてください。位置は住所からの推定で、現地では確認していません。</div>
     <div style="margin-top:4px;font-size:0.75rem;color:#666;">出典：${url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(p.source) + '</a>' : esc(p.source)}</div>
     <div style="margin-top:6px;"><a class="sv-btn" href="${svUrl(lat, lng)}" target="_blank" rel="noopener noreferrer">📷 ストリートビューで見る</a></div>
@@ -219,13 +222,14 @@ function setCafe(on) {
   if (cafeLoading) return;
   cafeLoading = true;
   msg.textContent = '読み込み中…';
-  Promise.all(['shinagawa_ninchisho_cafe.geojson', 'minato_ninchisho_cafe.geojson'].map(u =>
+  Promise.all(['shinagawa_ninchisho_cafe.geojson', 'minato_ninchisho_cafe.geojson', 'ninchisho_cafe_other_wards.geojson'].map(u =>
       fetch(u + '?v=' + Date.now()).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })))
     .then(parts => {
       const data = { type: 'FeatureCollection', features: [].concat(...parts.map(d => d.features)) };
       buildCafeLayer(data);
       const n = data.features.length, k = data.features.filter(f => f.properties.paused).length;
-      msg.textContent = n + '件（休止中' + k + '件は白抜き）';
+      const wards = [...new Set(data.features.map(f => f.properties.ward))].map(w => w.replace('区', ''));
+      msg.textContent = n + '件' + (k ? '（休止中' + k + '件は白抜き）' : '') + '　対応：' + wards.join('・') + '区のみ';
       if (showCafe) { cafeLayer.addTo(map); cafeLayer.bringToFront(); }
     })
     .catch(() => { msg.textContent = '読み込めませんでした。時間をおいて開き直してください'; document.getElementById('chk-cafe').checked = false; showCafe = false; })
@@ -280,7 +284,7 @@ legend.onAdd = function () {
     <span style="background:#2171b5"></span>地域交流センター（区の公式情報）<br>
     <span style="background:#0b7285"></span>地域活動センター（区の公式情報）<br>
     <span style="background:#888888"></span>その他施設<br>
-    <span style="background:#c2255c"></span>認知症カフェ（品川区・港区・チェックを入れると表示）
+    <span style="background:#c2255c"></span>認知症カフェ（一部の区のみ・チェックを入れると表示）
   `;
   return div;
 };
@@ -291,7 +295,7 @@ layerCtl.onAdd = function () {
   const div = L.DomUtil.create('div', 'layer-ctl');
   div.innerHTML = '<b>表示する地図</b>' +
     '<label><input id="chk-fac" type="checkbox" checked>地域センター・区民集会所など</label>' +
-    '<label><input id="chk-cafe" type="checkbox">認知症カフェ（品川区・港区）</label>' +
+    '<label><input id="chk-cafe" type="checkbox">認知症カフェ（一部の区のみ）</label>' +
     '<small id="cafe-msg"></small>';
   L.DomEvent.disableClickPropagation(div);
   div.querySelector('#chk-fac').addEventListener('change', function (e) {
