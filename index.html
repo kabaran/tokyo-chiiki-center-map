@@ -111,7 +111,7 @@ function restyleDots() {
 function restyleCafe() {
   if (!cafeLayer) return;
   const z = map.getZoom();
-  cafeLayer.eachLayer(l => { if (l.setStyle) l.setStyle({ radius: dotRadius(z) + 2, weight: 1.5 }); });
+  cafeLayer.eachLayer(l => { if (l.setStyle) l.setStyle({ radius: dotRadius(z) + 2, weight: /未確認/.test((l.feature && l.feature.properties.category) || '') ? 2.5 : 1.5 }); });
 }
 map.on('zoomend', restyleDots);
 map.on('zoomend', restyleCafe);
@@ -208,7 +208,7 @@ function buildCafeLayer(data) {
         radius: dotRadius(map.getZoom()) + 2,
         fillColor: paused ? '#ffffff' : (unsure ? '#f3b1c9' : '#c2255c'),
         color: '#c2255c',
-        weight: 1.5,
+        weight: unsure ? 2.5 : 1.5,
         fillOpacity: paused ? 0.9 : 0.9
       });
     },
@@ -239,7 +239,11 @@ function refreshCafe() {
   if (cafeLayer) map.removeLayer(cafeLayer);
   const feats = cafeData.features.filter(f => !curWard || f.properties.ward === curWard);
   buildCafeLayer({ type: 'FeatureCollection', features: feats });
-  if (showCafe) { cafeLayer.addTo(map); cafeLayer.bringToFront(); }
+  if (showCafe) {
+    cafeLayer.addTo(map); cafeLayer.bringToFront();
+    // 区を選んでいて、施設の表示がオフのときは、カフェの位置に地図を合わせる
+    if (curWard && !showFac && feats.length) map.fitBounds(cafeLayer.getBounds(), { padding: [40, 40], maxZoom: 15 });
+  }
   cafeMsg();
 }
 function setCafe(on) {
