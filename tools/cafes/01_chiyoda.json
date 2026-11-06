@@ -1,0 +1,67 @@
+{
+ "ward": "千代田区",
+ "source": "千代田区「認知症が気になるすべての方の居場所（認知症カフェ）」ページ（2026年6月29日更新）",
+ "source_url": "https://www.city.chiyoda.lg.jp/koho/kenko/koresha/ninchisho/cafe.html",
+ "cafes": [
+  {
+   "name": "いきいきはあとカフェ",
+   "district": "一番町",
+   "venue": "いきいきプラザ一番町",
+   "address": "東京都千代田区一番町12",
+   "schedule": "毎月第2木曜日・第4土曜日 14:00～15:30",
+   "fee": "無料",
+   "reservation": "不要",
+   "contact_org": "高齢者あんしんセンター麹町（メールは区の担当課：在宅支援課地域包括ケア推進係）",
+   "phone": "03-3265-6141",
+   "email": "zaitakushien@city.chiyoda.lg.jp"
+  },
+  {
+   "name": "神田はあとカフェ（高齢者あんしんセンター神田）",
+   "district": "神田淡路町",
+   "venue": "高齢者あんしんセンター神田（かんだ連雀1階）",
+   "address": "東京都千代田区神田淡路町2-8-1",
+   "schedule": "毎月第2土曜日 14:00～16:00",
+   "fee": "無料",
+   "reservation": "不要",
+   "contact_org": "高齢者あんしんセンター神田（メールは区の担当課：在宅支援課地域包括ケア推進係）",
+   "phone": "03-5297-2255",
+   "email": "zaitakushien@city.chiyoda.lg.jp"
+  },
+  {
+   "name": "神田はあとカフェ（岩本町ほほえみプラザ）",
+   "district": "岩本町",
+   "venue": "岩本町ほほえみプラザ1階",
+   "address": "東京都千代田区岩本町2-15-3",
+   "schedule": "毎月第4火曜日 10:00～11:45",
+   "fee": "無料",
+   "reservation": "不要",
+   "contact_org": "高齢者あんしんセンター神田（メールは区の担当課：在宅支援課地域包括ケア推進係）",
+   "phone": "03-5297-2255",
+   "email": "zaitakushien@city.chiyoda.lg.jp"
+  },
+  {
+   "name": "きのこカフェ",
+   "district": "麹町",
+   "venue": "ジロール麹町 1階 地域交流スペース",
+   "address": "東京都千代田区麹町2-14-3",
+   "schedule": "月～金 14:00～16:00、土・祝 11:00～16:00（毎週）",
+   "fee": "ドリンク等は有料（価格は記載なし）",
+   "reservation": "不要",
+   "contact_org": "社会福祉法人新生寿会 ジロール麹町（メールは区の担当課：在宅支援課地域包括ケア推進係）",
+   "phone": "03-3222-8750",
+   "email": "zaitakushien@city.chiyoda.lg.jp"
+  },
+  {
+   "name": "メモリーカフェ",
+   "district": "神田和泉町",
+   "venue": "三井記念病院",
+   "address": "東京都千代田区神田和泉町1",
+   "schedule": "毎月第4金曜日 15:00～16:00",
+   "fee": "記載なし",
+   "reservation": "記載なし",
+   "contact_org": "三井記念病院 認知症疾患医療センター／地域福祉相談室（メールは区の担当課：在宅支援課地域包括ケア推進係）",
+   "phone": "03-3862-9133",
+   "email": "zaitakushien@city.chiyoda.lg.jp"
+  }
+ ]
+}
