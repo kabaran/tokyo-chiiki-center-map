@@ -18,17 +18,23 @@ for f in sorted(glob.glob(os.path.join(here, 'cafes', '*.json'))):
     d = json.load(open(f, encoding='utf-8'))
     for r in d['cafes']:
         if 'lonlat' in r:
-            title, xy = r.get('geocode_match', '地図サイトの座標'), r['lonlat']
+            ll = r['lonlat']
+            ok = (isinstance(ll, (list, tuple)) and len(ll) == 2
+                  and all(isinstance(v, (int, float)) for v in ll)
+                  and 138.9 <= ll[0] <= 140.0 and 35.4 <= ll[1] <= 35.95)   # 東京23区の範囲（経度・緯度の取り違えも検出）
+            if not ok: bad.append((d['ward'], r['name'], str(ll))); continue
+            title, xy, src = r.get('geocode_match', '地図サイトの座標'), [float(ll[0]), float(ll[1])], '地図サイト由来の座標（未確認）'
         else:
             g = geocode(r.get('geocode_query', r['address']))
             if not g: bad.append((d['ward'], r['name'], r['address'])); continue
             title, xy = g[0]
+            src = '国土地理院 住所検索（住所からの推定・未確認）'
         p = {
             'name': r['name'], 'category': r.get('category', '認知症カフェ'), 'ward': d['ward'],
             'district': r.get('district', ''), 'venue': r.get('venue', ''), 'address': r['address'],
             'schedule': r.get('schedule', ''), 'fee': r.get('fee', '記載なし'),
             'reservation': r.get('reservation', '記載なし'), 'paused': r.get('paused', False),
-            'geocode': r.get('geocode', '国土地理院 住所検索（住所からの推定・未確認）'), 'geocode_match': title, **({'geocode_note': r['geocode_note']} if r.get('geocode_note') else {}),
+            'geocode': src, 'geocode_match': title, **({'geocode_note': r['geocode_note']} if r.get('geocode_note') else {}),
             'source': d['source'], 'source_url': d['source_url'],
             'contact_org': r.get('contact_org', ''), 'phone': r.get('phone', ''),
         }
