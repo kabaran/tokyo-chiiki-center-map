@@ -1,0 +1,173 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.751663,
+     35.646198
+    ]
+   },
+   "properties": {
+    "category": "認知症カフェ",
+    "ward": "港区",
+    "fee": "無料",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（番地までの推定・未確認）",
+    "source": "港区「みんなとオレンジカフェ」ページ（2026年10月8日更新）・令和8年度年間予定・令和8年10・11月チラシ",
+    "source_url": "https://www.city.minato.tokyo.jp/kaigoyobou/orenge_cafe/orengecafe201405open.html",
+    "contact_org": "NPO法人 介護者高齢者支援・けあポート（主催：港区高齢者支援課）",
+    "phone": "03-5860-2270",
+    "name": "みんなとオレンジカフェ（芝浦港南地区）",
+    "district": "芝浦港南",
+    "venue": "介護予防総合センター ラクっちゃ 研修室（みなとパーク芝浦2階）",
+    "address": "東京都港区芝浦1-16-1",
+    "schedule": "毎月第1水曜日が中心 13:00～16:00（8月は休み。月により日が変わる）",
+    "reservation": "不要（認知症専門医への個別相談は15:00までに来場）",
+    "geocode_match": "東京都港区芝浦一丁目１６番地"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.727066,
+     35.650387
+    ]
+   },
+   "properties": {
+    "category": "認知症カフェ",
+    "ward": "港区",
+    "fee": "無料",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（番地までの推定・未確認）",
+    "source": "港区「みんなとオレンジカフェ」ページ（2026年10月8日更新）・令和8年度年間予定・令和8年10・11月チラシ",
+    "source_url": "https://www.city.minato.tokyo.jp/kaigoyobou/orenge_cafe/orengecafe201405open.html",
+    "contact_org": "NPO法人 介護者高齢者支援・けあポート（主催：港区高齢者支援課）",
+    "phone": "03-5860-2270",
+    "name": "みんなとオレンジカフェ（麻布地区）",
+    "district": "麻布",
+    "venue": "ありすいきいきプラザ 3階 敬老室",
+    "address": "東京都港区南麻布4-6-7",
+    "schedule": "毎月第2水曜日 13:00～16:00（8月は休み）",
+    "reservation": "不要（認知症専門医への個別相談は15:00までに来場）",
+    "geocode_match": "東京都港区南麻布四丁目６番"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.731857,
+     35.674904
+    ]
+   },
+   "properties": {
+    "category": "認知症カフェ",
+    "ward": "港区",
+    "fee": "無料",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（番地までの推定・未確認）",
+    "source": "港区「みんなとオレンジカフェ」ページ（2026年10月8日更新）・令和8年度年間予定・令和8年10・11月チラシ",
+    "source_url": "https://www.city.minato.tokyo.jp/kaigoyobou/orenge_cafe/orengecafe201405open.html",
+    "contact_org": "NPO法人 介護者高齢者支援・けあポート（主催：港区高齢者支援課）",
+    "phone": "03-5860-2270",
+    "name": "みんなとオレンジカフェ（赤坂地区）",
+    "district": "赤坂",
+    "venue": "赤坂区民センター（会議室・研修室。月により部屋が変わる）",
+    "address": "東京都港区赤坂4-18-13",
+    "schedule": "毎月第3水曜日が中心 13:00～16:00（8月は休み）",
+    "reservation": "不要（認知症専門医への個別相談は15:00までに来場）",
+    "geocode_match": "東京都港区赤坂四丁目１８番"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.734207,
+     35.640907
+    ]
+   },
+   "properties": {
+    "category": "認知症カフェ",
+    "ward": "港区",
+    "fee": "無料",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（番地までの推定・未確認）",
+    "source": "港区「みんなとオレンジカフェ」ページ（2026年10月8日更新）・令和8年度年間予定・令和8年10・11月チラシ",
+    "source_url": "https://www.city.minato.tokyo.jp/kaigoyobou/orenge_cafe/orengecafe201405open.html",
+    "contact_org": "NPO法人 介護者高齢者支援・けあポート（主催：港区高齢者支援課）",
+    "phone": "03-5860-2270",
+    "name": "みんなとオレンジカフェ（高輪地区）",
+    "district": "高輪",
+    "venue": "高輪区民センター 1階 集会室（部屋が変わる場合あり）",
+    "address": "東京都港区高輪1-16-25",
+    "schedule": "毎月第3金曜日が中心 13:00～16:00（8月は休み）",
+    "reservation": "不要（認知症専門医への個別相談は15:00までに来場）",
+    "geocode_match": "東京都港区高輪一丁目１６番"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.742737,
+     35.653156
+    ]
+   },
+   "properties": {
+    "category": "認知症カフェ",
+    "ward": "港区",
+    "fee": "無料",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（番地までの推定・未確認）",
+    "source": "港区「みんなとオレンジカフェ」ページ（2026年10月8日更新）・令和8年度年間予定・令和8年10・11月チラシ",
+    "source_url": "https://www.city.minato.tokyo.jp/kaigoyobou/orenge_cafe/orengecafe201405open.html",
+    "contact_org": "NPO法人 介護者高齢者支援・けあポート（主催：港区高齢者支援課）",
+    "phone": "03-5860-2270",
+    "name": "みんなとオレンジカフェ（芝地区）",
+    "district": "芝",
+    "venue": "東京都済生会中央病院 北棟7階 第1会議室",
+    "address": "東京都港区三田1-4-17",
+    "schedule": "毎月第4水曜日が中心 13:00～16:00（8月は休み）",
+    "reservation": "不要（認知症専門医への個別相談は15:00までに来場）",
+    "geocode_match": "東京都港区三田一丁目４番"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.751541,
+     35.658531
+    ]
+   },
+   "properties": {
+    "category": "認知症の人と家族の集い（区役所）",
+    "ward": "港区",
+    "fee": "飲み物代",
+    "paused": false,
+    "geocode": "国土地理院 住所検索（番地までの推定・未確認）",
+    "source": "港区「つどいましょう。語りましょう。わたしの思い。」ページ（2026年10月28日更新）",
+    "source_url": "https://www.city.minato.tokyo.jp/koureisoudanshien/tudoi.html",
+    "contact_org": "港区高齢者支援課 高齢者相談支援係",
+    "phone": "03-3578-2316",
+    "name": "つどいましょう。語りましょう。わたしの思い。",
+    "district": "芝公園",
+    "venue": "レストラン・ポート（港区役所11階）",
+    "address": "東京都港区芝公園1-5-25",
+    "schedule": "毎月第2木曜日 14:00～16:00",
+    "reservation": "不要（飲み物を1品注文）",
+    "geocode_match": "東京都港区芝公園一丁目５番"
+   }
+  }
+ ]
+}
